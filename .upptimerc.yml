@@ -6,89 +6,115 @@ repo: upptime # Your Github repository name
 sites:
   - name: TronFlix
     url: https://tronflix.app
+    icon: https://tronflix.app/plugins/images/tabs/TronFlix_Icon_Transparent_BG.png
   - name: Plex
     url: https://tronflix.app/plex/
+    icon: https://tronflix.app/plugins/images/tabs/plex.png
     headers:
       - "token: $ORG_API_KEY"
   - name: Bitwarden
     url: https://bitwarden.tronflix.app
+    icon: https://tronflix.app/plugins/images/tabs/bitwarden.png
   - name: Gitea
     url: https://gitea.tronflix.app
+    icon: https://tronflix.app/plugins/images/tabs/gitea.png
   - name: Grafana
     url: https://grafana.tronflix.app
+    icon: https://tronflix.app/plugins/images/tabs/grafana.png
   - name: Jackett
     url: https://tronflix.app/jackett/
+    icon: https://tronflix.app/plugins/images/tabs/jackett.png
   - name: Library
     url: https://library.tronflix.app
   - name: NZBGet
     url: https://tronflix.app/nzbget/
+    icon: https://tronflix.app/plugins/images/tabs/nzbget.png
     headers:
       - "token: $ORG_API_KEY"
   - name: NZBHydra
     url: https://tronflix.app/nzbhydra2/
+    icon: https://tronflix.app/plugins/images/tabs/nzbhydra.png
     headers:
       - "token: $ORG_API_KEY"
   - name: Ombi
     url: https://tronflix.app/ombi/
+    icon: https://tronflix.app/plugins/images/tabs/ombi.png
     headers:
       - "token: $ORG_API_KEY"
   - name: PiHole
     url: https://pihole.tronflix.app
+    icon: https://tronflix.app/plugins/images/tabs/pihole.png
     headers:
       - "token: $ORG_API_KEY"
   - name: Radarr
     url: https://tronflix.app/radarr/
+    icon: https://tronflix.app/plugins/images/tabs/radarr.png
     headers:
       - "token: $ORG_API_KEY"
   - name: Radarr4K
     url: https://tronflix.app/radarr4k/
+    icon: https://tronflix.app/plugins/images/tabs/radarr4k.png
     headers:
       - "token: $ORG_API_KEY"
   - name: Sonarr
     url: https://tronflix.app/sonarr/
+    icon: https://tronflix.app/plugins/images/tabs/sonarr.png
     headers:
       - "token: $ORG_API_KEY"
   - name: Lidarr
     url: https://tronflix.app/lidarr/
+    icon: https://tronflix.app/plugins/images/tabs/lidarr.png
     headers:
       - "token: $ORG_API_KEY"
   - name: Tautulli
     url: https://tronflix.app/tautulli/
+    icon: https://tronflix.app/plugins/images/tabs/tautulli.png
     headers:
       - "token: $ORG_API_KEY"
   - name: Nagios
     url: https://nagios.tronflix.app
+    icon: https://tronflix.app/plugins/images/tabs/nagios.png
     expectedStatusCodes:
       - 200
       - 401
   - name: TheLounge
     url: https://tronflix.app/thelounge/
+    icon: https://tronflix.app/plugins/images/tabs/thelounge.png
     headers:
       - "token: $ORG_API_KEY"
   - name: Deluge
     url: https://tronflix.app/deluge/
+    icon: https://tronflix.app/plugins/images/tabs/deluge.png
     headers:
       - "token: $ORG_API_KEY"
   - name: Nextcloud
     url: https://nextcloud.tronflix.app
+    icon: https://tronflix.app/plugins/images/tabs/nextcloud.png
   - name: Chevereto
     url: https://gallery.tronflix.app
+    icon: https://tronflix.app/plugins/images/tabs/chevereto.png
   - name: XBackBone
     url: https://sharex.tronflix.app
+    icon: https://tronflix.app/plugins/images/tabs/xbackbone.png
   - name: MediaButler
     url: https://tronflix.app/mediabutler/
+    icon: https://tronflix.app/plugins/images/tabs/mediabutler.png
   - name: Netdata
     url: https://tronflix.app/netdata/
+    icon: https://tronflix.app/plugins/images/tabs/netdata.png
   - name: FileBrowser
     url: https://files.tronflix.app
+    icon: https://tronflix.app/plugins/images/tabs/filebrowser.png
     headers:
       - "token: $ORG_API_KEY"
   - name: Tdarr
     url: https://tdarr.tronflix.app
+    icon: https://tronflix.app/plugins/images/tabs/tdarr.png
     headers:
       - "token: $ORG_API_KEY"
   - name: Bazarr
     url: https://tronflix.app/bazarr/
+    icon: https://tronflix.app/plugins/images/tabs/bazarr.png
     headers:
       - "token: $ORG_API_KEY"
 assignees: # Users to assign downtime issues (optional)

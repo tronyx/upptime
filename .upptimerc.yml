@@ -6,6 +6,8 @@ repo: upptime # Your Github repository name
 sites:
   - name: TronFlix
     url: https://tronflix.app
+  - name: Plex
+    url: https://tronflix.app/plex/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain

@@ -10,6 +10,11 @@ sites:
   - name: Plex
     url: https://tronflix.app/plex/
     icon: https://tronflix.app/plugins/images/tabs/plex.png
+    headers:
+      - "token: $ORG_API_KEY"
+    expectedStatusCodes:
+      - 200
+      - 401
   - name: Bitwarden
     url: https://bitwarden.tronflix.app
     icon: https://tronflix.app/plugins/images/tabs/bitwarden.png

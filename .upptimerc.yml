@@ -8,6 +8,56 @@ sites:
     url: https://tronflix.app
   - name: Plex
     url: https://tronflix.app/plex/
+  - name: Bitwarden
+    url: https://bitwarden.tronflix.app
+  - name: Gitea
+    url: https://gitea.tronflix.app
+  - name: Grafana
+    url: https://grafana.tronflix.app
+  - name: Jackett
+    url: https://tronflix.app/jackett/
+  - name: Library
+    url: https://library.tronflix.app
+  - name: NZBGet
+    url: https://tronflix.app/nzbget/
+  - name: NZBHydra
+    url: https://tronflix.app/nzbhydra2/
+  - name: Ombi
+    url: https://tronflix.app/ombi/
+  - name: PiHole
+    url: https://pihole.tronflix.app
+  - name: Radarr
+    url: https://tronflix.app/radarr/
+  - name: Radarr4K
+    url: https://tronflix.app/radarr4k/
+  - name: Sonarr
+    url: https://tronflix.app/sonarr/
+  - name: Lidarr
+    url: https://tronflix.app/lidarr/
+  - name: Tautulli
+    url: https://tronflix.app/tautulli/
+  - name: Nagios
+    url: https://nagios.tronflix.app
+  - name: TheLounge
+    url: https://tronflix.app/thelounge/
+  - name: Deluge
+    url: https://tronflix.app/deluge/
+  - name: Nextcloud
+    url: https://nextcloud.tronflix.app
+  - name: Chevereto
+    url: https://gallery.tronflix.app
+  - name: XBackBone
+    url: https://sharex.tronflix.app
+  - name: MediaButler
+    url: https://tronflix.app/mediabutler/
+  - name: Netdata
+    url: https://tronflix.app/netdata/
+  - name: FileBrowser
+    url: https://files.tronflix.app
+  - name: Tdarr
+    url: https://tdarr.tronflix.app
+  - name: Bazarr
+    url: https://tronflix.app/bazarr/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain

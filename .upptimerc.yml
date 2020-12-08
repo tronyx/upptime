@@ -8,6 +8,8 @@ sites:
     url: https://tronflix.app
   - name: Plex
     url: https://tronflix.app/plex/
+    headers:
+      - "token: $ORG_API_KEY"
   - name: Bitwarden
     url: https://bitwarden.tronflix.app
   - name: Gitea
@@ -20,28 +22,53 @@ sites:
     url: https://library.tronflix.app
   - name: NZBGet
     url: https://tronflix.app/nzbget/
+    headers:
+      - "token: $ORG_API_KEY"
   - name: NZBHydra
     url: https://tronflix.app/nzbhydra2/
+    headers:
+      - "token: $ORG_API_KEY"
   - name: Ombi
     url: https://tronflix.app/ombi/
+    headers:
+      - "token: $ORG_API_KEY"
   - name: PiHole
     url: https://pihole.tronflix.app
+    headers:
+      - "token: $ORG_API_KEY"
   - name: Radarr
     url: https://tronflix.app/radarr/
+    headers:
+      - "token: $ORG_API_KEY"
   - name: Radarr4K
     url: https://tronflix.app/radarr4k/
+    headers:
+      - "token: $ORG_API_KEY"
   - name: Sonarr
     url: https://tronflix.app/sonarr/
+    headers:
+      - "token: $ORG_API_KEY"
   - name: Lidarr
     url: https://tronflix.app/lidarr/
+    headers:
+      - "token: $ORG_API_KEY"
   - name: Tautulli
     url: https://tronflix.app/tautulli/
+    headers:
+      - "token: $ORG_API_KEY"
   - name: Nagios
     url: https://nagios.tronflix.app
+    expectedStatusCodes:
+      - 200
+      - 401
   - name: TheLounge
     url: https://tronflix.app/thelounge/
+    headers:
+      - "token: $ORG_API_KEY"
   - name: Deluge
     url: https://tronflix.app/deluge/
+    headers:
+      - "token: $ORG_API_KEY"
   - name: Nextcloud
     url: https://nextcloud.tronflix.app
   - name: Chevereto
@@ -54,10 +81,18 @@ sites:
     url: https://tronflix.app/netdata/
   - name: FileBrowser
     url: https://files.tronflix.app
+    headers:
+      - "token: $ORG_API_KEY"
   - name: Tdarr
     url: https://tdarr.tronflix.app
+    headers:
+      - "token: $ORG_API_KEY"
   - name: Bazarr
     url: https://tronflix.app/bazarr/
+    headers:
+      - "token: $ORG_API_KEY"
+assignees: # Users to assign downtime issues (optional)
+  - christronyxyocum
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain

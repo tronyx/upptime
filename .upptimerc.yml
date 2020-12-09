@@ -22,7 +22,7 @@ sites:
     url: https://grafana.tronflix.app
     icon: https://tronflix.app/plugins/images/tabs/grafana.png
   - name: Jackett
-    url: https://tronflix.app/jackett/
+    url: https://tronflix.app/jackett/UI/Login
     icon: https://tronflix.app/plugins/images/tabs/jackett.png
     headers:
       - "token: $ORG_API_KEY"

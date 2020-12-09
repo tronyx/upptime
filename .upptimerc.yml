@@ -8,13 +8,10 @@ sites:
     url: https://tronflix.app
     icon: https://tronflix.app/plugins/images/tabs/TronFlix_Icon_Transparent_BG.png
   - name: Plex
-    url: https://tronflix.app/plex/
+    url: https://tronflix.app/plex/web/index.html
     icon: https://tronflix.app/plugins/images/tabs/plex.png
     headers:
       - "token: $ORG_API_KEY"
-    expectedStatusCodes:
-      - 200
-      - 401
   - name: Bitwarden
     url: https://bitwarden.tronflix.app
     icon: https://tronflix.app/plugins/images/tabs/bitwarden.png
@@ -27,6 +24,8 @@ sites:
   - name: Jackett
     url: https://tronflix.app/jackett/
     icon: https://tronflix.app/plugins/images/tabs/jackett.png
+    headers:
+      - "token: $ORG_API_KEY"
   - name: Library
     url: https://library.tronflix.app
   - name: NZBGet

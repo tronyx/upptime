@@ -136,7 +136,7 @@ status-website:
       href: https://github.com/$OWNER/$REPO
   links:
     - rel: stylesheet
-      href: https://halianelf.github.io/css/dev/upptime.css
+      href: https://halianelf.github.io/css/upptime.css
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

@@ -109,11 +109,6 @@ sites:
     icon: https://tronflix.app/plugins/images/tabs/filebrowser.png
     headers:
       - "token: $ORG_API_KEY"
-  - name: Tdarr
-    url: https://tdarr.tronflix.app
-    icon: https://tronflix.app/plugins/images/tabs/tdarr.png
-    headers:
-      - "token: $ORG_API_KEY"
   - name: Bazarr
     url: https://tronflix.app/bazarr/
     icon: https://tronflix.app/plugins/images/tabs/bazarr.png

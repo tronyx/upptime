@@ -122,6 +122,7 @@ status-website:
   cname: status.tronflix.app
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
+  publish: true
   logoUrl: https://tronflix.app/plugins/images/tabs/health.png
   name: TronFlix Upptime
   #introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
@@ -133,6 +134,9 @@ status-website:
       href: https://tronflix.app
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  links:
+    - rel: stylesheet
+      href: https://halianelf.github.io/css/dev/upptime.css
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

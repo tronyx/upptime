@@ -40,6 +40,7 @@ sites:
       - "token: $ORG_API_KEY"
   - name: Library
     url: https://library.tronflix.app
+    icon: https://tronflix.app/plugins/images/tabs/library.png
     expectedStatusCodes:
       - 200
   - name: NZBGet

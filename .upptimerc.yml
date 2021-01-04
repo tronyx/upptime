@@ -158,13 +158,6 @@ sites:
       - 200
     headers:
       - "token: $ORG_API_KEY"
-  - name: Bazarr
-    url: https://tronflix.app/bazarr/
-    icon: https://tronflix.app/plugins/images/tabs/bazarr.png
-    expectedStatusCodes:
-      - 200
-    headers:
-      - "token: $ORG_API_KEY"
 assignees: # Users to assign downtime issues (optional)
   - tronyx
 

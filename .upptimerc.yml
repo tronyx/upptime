@@ -165,6 +165,13 @@ sites:
       - 200
     headers:
       - "token: $ORG_API_KEY"
+  - name: Overseerr
+    url: https://overseerr.tronflix.app
+    icon: https://tronflix.app/plugins/images/tabs/overseerr.png
+    expectedStatusCodes:
+      - 200
+    headers:
+      - "token: $ORG_API_KEY"
 assignees: # Users to assign downtime issues (optional)
   - tronyx
 

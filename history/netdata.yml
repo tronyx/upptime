@@ -1,7 +1,7 @@
 url: https://tronflix.app/netdata/
-status: down
-code: 521
-responseTime: 33
-lastUpdated: 2021-01-22T23:47:39.842Z
+status: up
+code: 200
+responseTime: 350
+lastUpdated: 2021-01-23T23:36:46.222Z
 startTime: Tue Dec 08 2020 19:34:05 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

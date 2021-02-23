@@ -163,12 +163,12 @@ sites:
     expectedStatusCodes:
       - 200
     maxRedirects: "0"
-  - name: MediaButler
-    url: https://tronflix.app/mediabutler/
-    icon: https://tronflix.app/plugins/images/tabs/mediabutler.png
-    expectedStatusCodes:
-      - 200
-    maxRedirects: "0"
+  #- name: MediaButler
+  #  url: https://tronflix.app/mediabutler/
+  #  icon: https://tronflix.app/plugins/images/tabs/mediabutler.png
+  #  expectedStatusCodes:
+  #    - 200
+  #  maxRedirects: "0"
   - name: Netdata
     url: https://tronflix.app/netdata/
     icon: https://tronflix.app/plugins/images/tabs/netdata.png
@@ -192,7 +192,7 @@ sites:
     headers:
       - "token: $ORG_API_KEY"
   - name: Overseerr
-    url: https://overseerr.tronflix.app/login/
+    url: https://overseerr.tronflix.app/login
     icon: https://tronflix.app/plugins/images/tabs/overseerr.png
     expectedStatusCodes:
       - 200

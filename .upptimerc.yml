@@ -37,7 +37,7 @@ sites:
       - 200
     maxRedirects: "0"
   - name: Jackett
-    url: https://tronflix.app/jackett/UI/Login
+    url: https://tronflix.app/jackett/UI/Login/
     icon: https://tronflix.app/plugins/images/tabs/jackett.png
     expectedStatusCodes:
       - 200
@@ -75,7 +75,7 @@ sites:
     headers:
       - "token: $ORG_API_KEY"
   - name: PiHole
-    url: https://pihole.tronflix.app
+    url: https://pihole.tronflix.app/admin/
     icon: https://tronflix.app/plugins/images/tabs/pihole.png
     expectedStatusCodes:
       - 200
@@ -83,7 +83,7 @@ sites:
     headers:
       - "token: $ORG_API_KEY"
   - name: Radarr
-    url: https://tronflix.app/radarr/
+    url: https://tronflix.app/radarr/activity/queue/
     icon: https://tronflix.app/plugins/images/tabs/radarr.png
     expectedStatusCodes:
       - 200
@@ -91,7 +91,7 @@ sites:
     headers:
       - "token: $ORG_API_KEY"
   - name: Radarr4K
-    url: https://tronflix.app/radarr4k/
+    url: https://tronflix.app/radarr4k/activity/queue/
     icon: https://tronflix.app/plugins/images/tabs/radarr4k.png
     expectedStatusCodes:
       - 200
@@ -99,7 +99,7 @@ sites:
     headers:
       - "token: $ORG_API_KEY"
   - name: Sonarr
-    url: https://tronflix.app/sonarr/
+    url: https://tronflix.app/sonarr/activity/queue/
     icon: https://tronflix.app/plugins/images/tabs/sonarr.png
     expectedStatusCodes:
       - 200
@@ -107,7 +107,7 @@ sites:
     headers:
       - "token: $ORG_API_KEY"
   - name: Lidarr
-    url: https://tronflix.app/lidarr/
+    url: https://tronflix.app/lidarr/activity/queue/
     icon: https://tronflix.app/plugins/images/tabs/lidarr.png
     expectedStatusCodes:
       - 200
@@ -115,7 +115,7 @@ sites:
     headers:
       - "token: $ORG_API_KEY"
   - name: Tautulli
-    url: https://tronflix.app/tautulli/
+    url: https://tronflix.app/tautulli/status/
     icon: https://tronflix.app/plugins/images/tabs/tautulli.png
     expectedStatusCodes:
       - 200
@@ -137,9 +137,9 @@ sites:
     maxRedirects: "0"
     headers:
       - "token: $ORG_API_KEY"
-  - name: Deluge
-    url: https://tronflix.app/deluge/
-    icon: https://tronflix.app/plugins/images/tabs/deluge.png
+  - name: qBit
+    url: https://tronflix.app/qbit/
+    icon: https://tronflix.app/plugins/images/tabs/qBittorrent.png
     expectedStatusCodes:
       - 200
     maxRedirects: "0"
@@ -184,7 +184,7 @@ sites:
     headers:
       - "token: $ORG_API_KEY"
   - name: Bazarr
-    url: https://tronflix.app/bazarr/
+    url: https://tronflix.app/bazarr/system/status
     icon: https://tronflix.app/plugins/images/tabs/bazarr.png
     expectedStatusCodes:
       - 200
@@ -192,8 +192,16 @@ sites:
     headers:
       - "token: $ORG_API_KEY"
   - name: Overseerr
-    url: https://overseerr.tronflix.app
+    url: https://overseerr.tronflix.app/login/
     icon: https://tronflix.app/plugins/images/tabs/overseerr.png
+    expectedStatusCodes:
+      - 200
+    maxRedirects: "0"
+    headers:
+      - "token: $ORG_API_KEY"
+  - name: Prowlarr
+    url: https://tronflix.app/prowlarr/
+    icon: https://tronflix.app/plugins/images/tabs/prowlarr.png
     expectedStatusCodes:
       - 200
     maxRedirects: "0"

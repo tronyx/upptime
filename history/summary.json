@@ -354,8 +354,8 @@
     "slug": "nextcloud",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 553,
@@ -364,7 +364,7 @@
     "timeMonth": 528,
     "timeYear": 553,
     "dailyMinutesDown": {
-      "2021-02-23": 0
+      "2021-02-23": 1
     }
   },
   {
@@ -392,8 +392,8 @@
     "slug": "x-back-bone",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 408,
@@ -402,7 +402,7 @@
     "timeMonth": 402,
     "timeYear": 408,
     "dailyMinutesDown": {
-      "2021-02-23": 0
+      "2021-02-23": 1
     }
   },
   {
@@ -412,8 +412,8 @@
     "slug": "media-butler",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 228,
@@ -422,7 +422,7 @@
     "timeMonth": 286,
     "timeYear": 228,
     "dailyMinutesDown": {
-      "2021-02-23": 0
+      "2021-02-23": 1
     }
   },
   {
@@ -432,8 +432,8 @@
     "slug": "netdata",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 388,
@@ -442,7 +442,7 @@
     "timeMonth": 386,
     "timeYear": 388,
     "dailyMinutesDown": {
-      "2021-02-23": 0
+      "2021-02-23": 1
     }
   },
   {
@@ -488,7 +488,7 @@
     "slug": "overseerr",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",

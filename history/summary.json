@@ -353,19 +353,17 @@
     "icon": "https://tronflix.app/plugins/images/tabs/nextcloud.png",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 551,
     "timeDay": 474,
     "timeWeek": 477,
     "timeMonth": 522,
     "timeYear": 551,
-    "dailyMinutesDown": {
-      "2021-02-23": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Chevereto",
@@ -391,19 +389,17 @@
     "icon": "https://tronflix.app/plugins/images/tabs/xbackbone.png",
     "slug": "x-back-bone",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 407,
     "timeDay": 345,
     "timeWeek": 394,
     "timeMonth": 399,
     "timeYear": 407,
-    "dailyMinutesDown": {
-      "2021-02-23": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Netdata",
@@ -412,7 +408,7 @@
     "slug": "netdata",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.04%",
+    "uptimeDay": "99.03%",
     "uptimeWeek": "99.86%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
@@ -467,19 +463,17 @@
     "icon": "https://tronflix.app/plugins/images/tabs/overseerr.png",
     "slug": "overseerr",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 926,
     "timeDay": 642,
     "timeWeek": 1234,
     "timeMonth": 977,
     "timeYear": 926,
-    "dailyMinutesDown": {
-      "2021-02-23": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Prowlarr",

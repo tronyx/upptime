@@ -146,7 +146,7 @@ sites:
     headers:
       - "token: $ORG_API_KEY"
   - name: Nextcloud
-    url: https://nextcloud.tronflix.app
+    url: https://nextcloud.tronflix.app/login
     icon: https://tronflix.app/plugins/images/tabs/nextcloud.png
     expectedStatusCodes:
       - 200
@@ -158,7 +158,7 @@ sites:
       - 200
     maxRedirects: "0"
   - name: XBackBone
-    url: https://sharex.tronflix.app
+    url: https://sharex.tronflix.app/login
     icon: https://tronflix.app/plugins/images/tabs/xbackbone.png
     expectedStatusCodes:
       - 200

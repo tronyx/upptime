@@ -9,13 +9,13 @@ sites:
     icon: https://tronflix.app/plugins/images/tabs/TronFlix_Icon_Transparent_BG.png
     expectedStatusCodes:
       - 200
-    maxRedirects: "0"
+    maxRedirects: 0
   - name: Plex
     url: https://tronflix.app/plex/web/index.html
     icon: https://tronflix.app/plugins/images/tabs/plex.png
     expectedStatusCodes:
       - 200
-    maxRedirects: "0"
+    maxRedirects: 0
     headers:
       - "token: $ORG_API_KEY"
   - name: Bitwarden
@@ -23,25 +23,25 @@ sites:
     icon: https://tronflix.app/plugins/images/tabs/bitwarden.png
     expectedStatusCodes:
       - 200
-    maxRedirects: "0"
+    maxRedirects: 0
   - name: Gitea
     url: https://gitea.tronflix.app
     icon: https://tronflix.app/plugins/images/tabs/gitea.png
     expectedStatusCodes:
       - 200
-    maxRedirects: "0"
+    maxRedirects: 0
   - name: Grafana
     url: https://grafana.tronflix.app
     icon: https://tronflix.app/plugins/images/tabs/grafana.png
     expectedStatusCodes:
       - 200
-    maxRedirects: "0"
+    maxRedirects: 0
   - name: Jackett
     url: https://tronflix.app/jackett/UI/Login/
     icon: https://tronflix.app/plugins/images/tabs/jackett.png
     expectedStatusCodes:
       - 200
-    maxRedirects: "0"
+    maxRedirects: 0
     headers:
       - "token: $ORG_API_KEY"
   - name: Library
@@ -49,13 +49,13 @@ sites:
     icon: https://tronflix.app/plugins/images/tabs/library.png
     expectedStatusCodes:
       - 200
-    maxRedirects: "0"
+    maxRedirects: 0
   - name: NZBGet
     url: https://tronflix.app/nzbget/
     icon: https://tronflix.app/plugins/images/tabs/nzbget.png
     expectedStatusCodes:
       - 200
-    maxRedirects: "0"
+    maxRedirects: 0
     headers:
       - "token: $ORG_API_KEY"
   - name: NZBHydra
@@ -63,7 +63,7 @@ sites:
     icon: https://tronflix.app/plugins/images/tabs/nzbhydra.png
     expectedStatusCodes:
       - 200
-    maxRedirects: "0"
+    maxRedirects: 0
     headers:
       - "token: $ORG_API_KEY"
   - name: Ombi
@@ -71,7 +71,7 @@ sites:
     icon: https://tronflix.app/plugins/images/tabs/ombi.png
     expectedStatusCodes:
       - 200
-    maxRedirects: "0"
+    maxRedirects: 0
     headers:
       - "token: $ORG_API_KEY"
   - name: PiHole
@@ -79,7 +79,7 @@ sites:
     icon: https://tronflix.app/plugins/images/tabs/pihole.png
     expectedStatusCodes:
       - 200
-    maxRedirects: "0"
+    maxRedirects: 0
     headers:
       - "token: $ORG_API_KEY"
   - name: Radarr
@@ -87,7 +87,7 @@ sites:
     icon: https://tronflix.app/plugins/images/tabs/radarr.png
     expectedStatusCodes:
       - 200
-    maxRedirects: "0"
+    maxRedirects: 0
     headers:
       - "token: $ORG_API_KEY"
   - name: Radarr4K
@@ -95,7 +95,7 @@ sites:
     icon: https://tronflix.app/plugins/images/tabs/radarr4k.png
     expectedStatusCodes:
       - 200
-    maxRedirects: "0"
+    maxRedirects: 0
     headers:
       - "token: $ORG_API_KEY"
   - name: Sonarr
@@ -103,7 +103,7 @@ sites:
     icon: https://tronflix.app/plugins/images/tabs/sonarr.png
     expectedStatusCodes:
       - 200
-    maxRedirects: "0"
+    maxRedirects: 0
     headers:
       - "token: $ORG_API_KEY"
   - name: Lidarr
@@ -111,7 +111,7 @@ sites:
     icon: https://tronflix.app/plugins/images/tabs/lidarr.png
     expectedStatusCodes:
       - 200
-    maxRedirects: "0"
+    maxRedirects: 0
     headers:
       - "token: $ORG_API_KEY"
   - name: Tautulli
@@ -119,7 +119,7 @@ sites:
     icon: https://tronflix.app/plugins/images/tabs/tautulli.png
     expectedStatusCodes:
       - 200
-    maxRedirects: "0"
+    maxRedirects: 0
     headers:
       - "token: $ORG_API_KEY"
   - name: Nagios
@@ -128,13 +128,13 @@ sites:
     expectedStatusCodes:
       - 200
       - 401
-    maxRedirects: "0"
+    maxRedirects: 0
   - name: TheLounge
     url: https://tronflix.app/thelounge/
     icon: https://tronflix.app/plugins/images/tabs/thelounge.png
     expectedStatusCodes:
       - 200
-    maxRedirects: "0"
+    maxRedirects: 0
     headers:
       - "token: $ORG_API_KEY"
   - name: qBit
@@ -142,7 +142,7 @@ sites:
     icon: https://tronflix.app/plugins/images/tabs/qBittorrent.png
     expectedStatusCodes:
       - 200
-    maxRedirects: "0"
+    maxRedirects: 0
     headers:
       - "token: $ORG_API_KEY"
   - name: Nextcloud
@@ -150,37 +150,37 @@ sites:
     icon: https://tronflix.app/plugins/images/tabs/nextcloud.png
     expectedStatusCodes:
       - 200
-    maxRedirects: "0"
+    maxRedirects: 0
   - name: Chevereto
     url: https://gallery.tronflix.app
     icon: https://tronflix.app/plugins/images/tabs/chevereto.png
     expectedStatusCodes:
       - 200
-    maxRedirects: "0"
+    maxRedirects: 0
   - name: XBackBone
     url: https://sharex.tronflix.app/login
     icon: https://tronflix.app/plugins/images/tabs/xbackbone.png
     expectedStatusCodes:
       - 200
-    maxRedirects: "0"
+    maxRedirects: 0
   #- name: MediaButler
   #  url: https://tronflix.app/mediabutler/
   #  icon: https://tronflix.app/plugins/images/tabs/mediabutler.png
   #  expectedStatusCodes:
   #    - 200
-  #  maxRedirects: "0"
+  #  maxRedirects: 0
   #- name: Netdata
   #  url: https://tronflix.app/netdata/
   #  icon: https://tronflix.app/plugins/images/tabs/netdata.png
   #  expectedStatusCodes:
   #    - 200
-  #  maxRedirects: "0"
+  #  maxRedirects: 0
   - name: FileBrowser
     url: https://files.tronflix.app
     icon: https://tronflix.app/plugins/images/tabs/filebrowser.png
     expectedStatusCodes:
       - 200
-    maxRedirects: "0"
+    maxRedirects: 0
     headers:
       - "token: $ORG_API_KEY"
   - name: Bazarr
@@ -188,7 +188,7 @@ sites:
     icon: https://tronflix.app/plugins/images/tabs/bazarr.png
     expectedStatusCodes:
       - 200
-    maxRedirects: "0"
+    maxRedirects: 0
     headers:
       - "token: $ORG_API_KEY"
   - name: Overseerr
@@ -196,7 +196,7 @@ sites:
     icon: https://tronflix.app/plugins/images/tabs/overseerr.png
     expectedStatusCodes:
       - 200
-    maxRedirects: "0"
+    maxRedirects: 0
     headers:
       - "token: $ORG_API_KEY"
   - name: Prowlarr
@@ -204,7 +204,7 @@ sites:
     icon: https://tronflix.app/plugins/images/tabs/prowlarr.png
     expectedStatusCodes:
       - 200
-    maxRedirects: "0"
+    maxRedirects: 0
     headers:
       - "token: $ORG_API_KEY"
 assignees: # Users to assign downtime issues (optional)

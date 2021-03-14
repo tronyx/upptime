@@ -388,19 +388,19 @@
     "url": "https://sharex.tronflix.app/login",
     "icon": "https://tronflix.app/plugins/images/tabs/xbackbone.png",
     "slug": "x-back-bone",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 386,
-    "timeDay": 289,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.57%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
+    "time": 385,
+    "timeDay": 288,
     "timeWeek": 289,
-    "timeMonth": 328,
-    "timeYear": 386,
+    "timeMonth": 327,
+    "timeYear": 385,
     "dailyMinutesDown": {
-      "2021-03-14": 0
+      "2021-03-14": 21
     }
   },
   {

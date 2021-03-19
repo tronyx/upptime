@@ -163,18 +163,6 @@ sites:
     expectedStatusCodes:
       - 200
     maxRedirects: 0
-  #- name: MediaButler
-  #  url: https://tronflix.app/mediabutler/
-  #  icon: https://tronflix.app/plugins/images/tabs/mediabutler.png
-  #  expectedStatusCodes:
-  #    - 200
-  #  maxRedirects: 0
-  #- name: Netdata
-  #  url: https://tronflix.app/netdata/
-  #  icon: https://tronflix.app/plugins/images/tabs/netdata.png
-  #  expectedStatusCodes:
-  #    - 200
-  #  maxRedirects: 0
   - name: FileBrowser
     url: https://files.tronflix.app
     icon: https://tronflix.app/plugins/images/tabs/filebrowser.png

@@ -30,7 +30,7 @@
     "uptimeYear": "99.97%",
     "time": 485,
     "timeDay": 317,
-    "timeWeek": 2651,
+    "timeWeek": 256,
     "timeMonth": 1042,
     "timeYear": 485,
     "dailyMinutesDown": {
@@ -260,7 +260,7 @@
     "url": "https://tronflix.app/lidarr/activity/queue/",
     "icon": "https://tronflix.app/plugins/images/tabs/lidarr.png",
     "slug": "lidarr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",

@@ -480,7 +480,7 @@
     "url": "https://petio.tronflix.app",
     "icon": "https://tronflix.app/plugins/images/tabs/petio.png",
     "slug": "petio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",

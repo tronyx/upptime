@@ -480,17 +480,17 @@
     "url": "https://petio.tronflix.app",
     "icon": "https://tronflix.app/plugins/images/tabs/petio.png",
     "slug": "petio",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 557,
-    "timeDay": 269,
-    "timeWeek": 272,
-    "timeMonth": 392,
-    "timeYear": 557,
+    "time": 554,
+    "timeDay": 252,
+    "timeWeek": 268,
+    "timeMonth": 387,
+    "timeYear": 554,
     "dailyMinutesDown": {}
   }
 ]

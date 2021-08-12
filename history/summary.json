@@ -4,7 +4,7 @@
     "url": "https://tronflix.app",
     "icon": "https://tronflix.app/plugins/images/tabs/TronFlix_Icon_Transparent_BG.png",
     "slug": "tron-flix",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 767,
     "timeDay": 657,
-    "timeWeek": 508,
+    "timeWeek": 529,
     "timeMonth": 442,
     "timeYear": 767,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "99.99%",
     "time": 536,
     "timeDay": 467,
-    "timeWeek": 235,
+    "timeWeek": 249,
     "timeMonth": 779,
     "timeYear": 536,
     "dailyMinutesDown": {
@@ -86,7 +86,7 @@
     "uptimeYear": "100.00%",
     "time": 493,
     "timeDay": 497,
-    "timeWeek": 336,
+    "timeWeek": 361,
     "timeMonth": 945,
     "timeYear": 493,
     "dailyMinutesDown": {}

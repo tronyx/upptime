@@ -36,14 +36,6 @@ sites:
     expectedStatusCodes:
       - 200
     maxRedirects: 0
-  - name: Jackett
-    url: https://tronflix.app/jackett/UI/Login/
-    icon: https://tronflix.app/plugins/images/tabs/jackett.png
-    expectedStatusCodes:
-      - 200
-    maxRedirects: 0
-    headers:
-      - "token: $ORG_API_KEY"
   - name: Library
     url: https://library.tronflix.app
     icon: https://tronflix.app/plugins/images/tabs/library.png
@@ -53,14 +45,6 @@ sites:
   - name: NZBGet
     url: https://tronflix.app/nzbget/
     icon: https://tronflix.app/plugins/images/tabs/nzbget.png
-    expectedStatusCodes:
-      - 200
-    maxRedirects: 0
-    headers:
-      - "token: $ORG_API_KEY"
-  - name: NZBHydra
-    url: https://tronflix.app/nzbhydra2/
-    icon: https://tronflix.app/plugins/images/tabs/nzbhydra.png
     expectedStatusCodes:
       - 200
     maxRedirects: 0

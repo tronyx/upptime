@@ -240,7 +240,7 @@
     "url": "https://tronflix.app/tautulli/status/",
     "icon": "https://tronflix.app/plugins/images/tabs/tautulli.png",
     "slug": "tautulli",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",

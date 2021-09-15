@@ -258,17 +258,17 @@
     "url": "https://nagios.tronflix.app",
     "icon": "https://tronflix.app/plugins/images/tabs/nagios.png",
     "slug": "nagios",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 290,
-    "timeDay": 407,
-    "timeWeek": 352,
-    "timeMonth": 282,
-    "timeYear": 290,
+    "time": 291,
+    "timeDay": 406,
+    "timeWeek": 359,
+    "timeMonth": 286,
+    "timeYear": 291,
     "dailyMinutesDown": {
       "2020-12-08": 25
     }

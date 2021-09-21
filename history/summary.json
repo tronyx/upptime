@@ -278,7 +278,7 @@
     "url": "https://tronflix.app/thelounge/",
     "icon": "https://tronflix.app/plugins/images/tabs/thelounge.png",
     "slug": "the-lounge",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",

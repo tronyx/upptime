@@ -172,21 +172,13 @@ sites:
     headers:
       - "token: $ORG_API_KEY"
   - name: Petio
-    url: https://petio.tronflix.app
+    url: https://tronflix.app/petio/
     icon: https://tronflix.app/plugins/images/tabs/petio.png
     expectedStatusCodes:
       - 200
     maxRedirects: 0
     headers:
       - "token: $ORG_API_KEY"
-#  - name: TheLounge
-#    url: https://tronflix.app/thelounge/
-#    icon:  https://tronflix.app/plugins/images/tabs/thelounge.png
-#    expectedStatusCodes:
-#      - 200
-#    maxRedirects: 0
-#    headers:
-#      - "token: $ORG_API_KEY"
 
 assignees: # Users to assign downtime issues (optional)
   - tronyx

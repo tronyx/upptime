@@ -118,18 +118,20 @@
     "url": "https://tronflix.app/nzbget/",
     "icon": "https://tronflix.app/plugins/images/tabs/nzbget.png",
     "slug": "nzb-get",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 523,
-    "timeDay": 637,
-    "timeWeek": 460,
-    "timeMonth": 395,
+    "timeDay": 566,
+    "timeWeek": 463,
+    "timeMonth": 398,
     "timeYear": 523,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-30": 0
+    }
   },
   {
     "name": "Ombi",

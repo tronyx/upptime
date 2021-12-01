@@ -238,9 +238,9 @@
     "url": "https://tronflix.app/lidarr/activity/queue/",
     "icon": "https://tronflix.app/plugins/images/tabs/lidarr.png",
     "slug": "lidarr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -249,7 +249,9 @@
     "timeWeek": 163,
     "timeMonth": 167,
     "timeYear": 344,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-01": 0
+    }
   },
   {
     "name": "Tautulli",

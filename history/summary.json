@@ -293,10 +293,10 @@
     "url": "https://tronflix.app/qbit/",
     "icon": "https://tronflix.app/plugins/images/tabs/qBittorrent.png",
     "slug": "q-bit",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 288,
@@ -304,7 +304,9 @@
     "timeWeek": 165,
     "timeMonth": 177,
     "timeYear": 288,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-19": 1
+    }
   },
   {
     "name": "Nextcloud",

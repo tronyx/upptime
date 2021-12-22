@@ -257,10 +257,10 @@
     "url": "https://tronflix.app/tautulli/status/",
     "icon": "https://tronflix.app/plugins/images/tabs/tautulli.png",
     "slug": "tautulli",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 383,
@@ -268,7 +268,9 @@
     "timeWeek": 175,
     "timeMonth": 170,
     "timeYear": 369,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-22": 1
+    }
   },
   {
     "name": "Nagios",

@@ -4,11 +4,11 @@
     "url": "https://tronflix.app",
     "icon": "https://tronflix.app/plugins/images/tabs/TronFlix_Icon_Transparent_BG.png",
     "slug": "tron-flix",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 660,
     "timeDay": 716,
@@ -16,6 +16,7 @@
     "timeMonth": 505,
     "timeYear": 688,
     "dailyMinutesDown": {
+      "2022-01-11": 2,
       "2021-11-09": 20
     }
   },
@@ -24,10 +25,10 @@
     "url": "https://tronflix.app/plex/web/index.html",
     "icon": "https://tronflix.app/plugins/images/tabs/plex.png",
     "slug": "plex",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 405,
@@ -36,6 +37,7 @@
     "timeMonth": 172,
     "timeYear": 422,
     "dailyMinutesDown": {
+      "2022-01-11": 1,
       "2021-11-30": 16,
       "2021-11-09": 19,
       "2021-10-01": 116
@@ -91,9 +93,9 @@
     "url": "https://grafana.tronflix.app",
     "icon": "https://tronflix.app/plugins/images/tabs/grafana.png",
     "slug": "grafana",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -103,6 +105,7 @@
     "timeMonth": 277,
     "timeYear": 437,
     "dailyMinutesDown": {
+      "2022-01-11": 0,
       "2021-11-09": 17
     }
   },
@@ -111,18 +114,19 @@
     "url": "https://library.tronflix.app",
     "icon": "https://tronflix.app/plugins/images/tabs/library.png",
     "slug": "library",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1405,
-    "timeDay": 1236,
-    "timeWeek": 994,
-    "timeMonth": 1058,
-    "timeYear": 1436,
+    "time": 1403,
+    "timeDay": 691,
+    "timeWeek": 888,
+    "timeMonth": 1030,
+    "timeYear": 1432,
     "dailyMinutesDown": {
+      "2022-01-11": 0,
       "2021-11-09": 16
     }
   },

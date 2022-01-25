@@ -4,18 +4,19 @@
     "url": "https://tronflix.app",
     "icon": "https://tronflix.app/plugins/images/tabs/TronFlix_Icon_Transparent_BG.png",
     "slug": "tron-flix",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
-    "time": 652,
-    "timeDay": 724,
-    "timeWeek": 510,
-    "timeMonth": 463,
-    "timeYear": 684,
+    "time": 651,
+    "timeDay": 423,
+    "timeWeek": 467,
+    "timeMonth": 453,
+    "timeYear": 683,
     "dailyMinutesDown": {
+      "2022-01-25": 0,
       "2022-01-14": 44,
       "2021-11-09": 20
     }
@@ -58,7 +59,7 @@
     "timeDay": 414,
     "timeWeek": 302,
     "timeMonth": 321,
-    "timeYear": 573,
+    "timeYear": 574,
     "dailyMinutesDown": {
       "2022-01-23": 16,
       "2022-01-16": 20,
@@ -107,7 +108,7 @@
     "timeDay": 484,
     "timeWeek": 346,
     "timeMonth": 278,
-    "timeYear": 438,
+    "timeYear": 439,
     "dailyMinutesDown": {
       "2022-01-14": 41,
       "2021-11-09": 17
@@ -128,7 +129,7 @@
     "timeDay": 1194,
     "timeWeek": 1113,
     "timeMonth": 1034,
-    "timeYear": 1419,
+    "timeYear": 1420,
     "dailyMinutesDown": {
       "2022-01-14": 40,
       "2021-11-09": 16
@@ -169,7 +170,7 @@
     "timeDay": 228,
     "timeWeek": 198,
     "timeMonth": 174,
-    "timeYear": 293,
+    "timeYear": 294,
     "dailyMinutesDown": {
       "2022-01-14": 37
     }
@@ -229,7 +230,7 @@
     "timeDay": 222,
     "timeWeek": 169,
     "timeMonth": 166,
-    "timeYear": 313,
+    "timeYear": 314,
     "dailyMinutesDown": {
       "2022-01-14": 32
     }
@@ -269,7 +270,7 @@
     "timeDay": 210,
     "timeWeek": 184,
     "timeMonth": 167,
-    "timeYear": 334,
+    "timeYear": 333,
     "dailyMinutesDown": {
       "2022-01-14": 29,
       "2021-12-01": 47
@@ -290,7 +291,7 @@
     "timeDay": 222,
     "timeWeek": 177,
     "timeMonth": 167,
-    "timeYear": 327,
+    "timeYear": 325,
     "dailyMinutesDown": {
       "2022-01-14": 27
     }
@@ -351,7 +352,7 @@
     "timeDay": 410,
     "timeWeek": 334,
     "timeMonth": 315,
-    "timeYear": 357,
+    "timeYear": 356,
     "dailyMinutesDown": {
       "2022-01-23": 16,
       "2022-01-16": 20,
@@ -423,7 +424,7 @@
     "timeDay": 397,
     "timeWeek": 327,
     "timeMonth": 241,
-    "timeYear": 442,
+    "timeYear": 443,
     "dailyMinutesDown": {
       "2022-01-14": 24
     }

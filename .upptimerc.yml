@@ -66,6 +66,14 @@ sites:
     maxRedirects: 0
     headers:
       - "token: $ORG_API_KEY"
+  - name: Radarr Anime
+    url: https://tronflix.app/radarr-anime/activity/queue/
+    icon: https://tronflix.app/plugins/images/tabs/radarr.png
+    expectedStatusCodes:
+      - 200
+    maxRedirects: 0
+    headers:
+      - "token: $ORG_API_KEY"
   - name: Radarr4K
     url: https://tronflix.app/radarr4k/activity/queue/
     icon: https://tronflix.app/plugins/images/tabs/radarr4k.png
@@ -76,6 +84,14 @@ sites:
       - "token: $ORG_API_KEY"
   - name: Sonarr
     url: https://tronflix.app/sonarr/activity/queue/
+    icon: https://tronflix.app/plugins/images/tabs/sonarr.png
+    expectedStatusCodes:
+      - 200
+    maxRedirects: 0
+    headers:
+      - "token: $ORG_API_KEY"
+  - name: Sonarr Anime
+    url: https://tronflix.app/sonarr-anime/login
     icon: https://tronflix.app/plugins/images/tabs/sonarr.png
     expectedStatusCodes:
       - 200

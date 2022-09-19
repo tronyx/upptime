@@ -58,6 +58,14 @@ sites:
     maxRedirects: 0
     headers:
       - "token: $ORG_API_KEY"
+  - name: PiHole Backup
+    url: https://pihole-backup.tronflix.app/admin/
+    icon: https://tronflix.app/plugins/images/tabs/pihole.png
+    expectedStatusCodes:
+      - 200
+    maxRedirects: 0
+    headers:
+      - "token: $ORG_API_KEY"
   - name: Radarr
     url: https://tronflix.app/radarr/activity/queue/
     icon: https://tronflix.app/plugins/images/tabs/radarr.png

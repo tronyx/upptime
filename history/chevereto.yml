@@ -1,7 +1,7 @@
 url: https://gallery.tronflix.app
-status: up
-code: 200
-responseTime: 245
-lastUpdated: 2022-10-17T23:03:33.797Z
+status: down
+code: 502
+responseTime: 3358
+lastUpdated: 2022-10-18T14:49:53.837Z
 startTime: Tue Dec 08 2020 19:34:03 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

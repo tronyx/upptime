@@ -179,6 +179,14 @@ sites:
     maxRedirects: 0
     headers:
       - "token: $ORG_API_KEY"
+  - name: Navidrome
+    url: https://tronflix.app/navidrome/
+    icon: https://tronflix.app/plugins/images/tabs/navidrome.png
+    expectedStatusCodes:
+      - 200
+    maxRedirects: 0
+    headers:
+      - "token: $ORG_API_KEY"
 
 assignees: # Users to assign downtime issues (optional)
   - tronyx

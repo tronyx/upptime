@@ -204,7 +204,7 @@ sites:
     headers:
       - "token: $ORG_API_KEY"
   - name: Navidrome
-    url: https://tronflix.app/navidrome/
+    url: https://tronflix.app/navidrome/app/
     icon: https://tronflix.app/plugins/images/tabs/navidrome.png
     expectedStatusCodes:
       - 200

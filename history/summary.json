@@ -119,17 +119,18 @@
     "slug": "bitwarden",
     "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.69%",
+    "uptimeDay": "95.21%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.67%",
     "time": 327,
     "timeDay": 206,
     "timeWeek": 281,
     "timeMonth": 239,
     "timeYear": 307,
     "dailyMinutesDown": {
-      "2023-05-07": 1,
+      "2023-05-08": 12,
+      "2023-05-07": 57,
       "2023-03-06": 830,
       "2023-03-05": 57,
       "2023-03-01": 56,
@@ -153,8 +154,7 @@
       "2022-06-12": 18,
       "2022-06-05": 19,
       "2022-05-22": 20,
-      "2022-05-15": 20,
-      "2022-05-08": 20
+      "2022-05-15": 20
     }
   },
   {
@@ -163,18 +163,19 @@
     "icon": "https://tronflix.app/plugins/images/tabs/gitea.png",
     "slug": "gitea",
     "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.69%",
+    "uptime": "99.84%",
+    "uptimeDay": "95.22%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.67%",
     "time": 245,
     "timeDay": 195,
     "timeWeek": 266,
     "timeMonth": 232,
     "timeYear": 237,
     "dailyMinutesDown": {
-      "2023-05-07": 1,
+      "2023-05-08": 12,
+      "2023-05-07": 57,
       "2023-03-06": 830,
       "2023-03-05": 57,
       "2023-03-01": 56,
@@ -198,8 +199,7 @@
       "2022-06-12": 18,
       "2022-06-05": 19,
       "2022-05-22": 20,
-      "2022-05-15": 20,
-      "2022-05-08": 20
+      "2022-05-15": 20
     }
   },
   {
@@ -891,8 +891,7 @@
       "2022-05-13": 103,
       "2022-05-11": 50,
       "2022-05-10": 68,
-      "2022-05-09": 246,
-      "2022-05-08": 75
+      "2022-05-09": 246
     }
   },
   {
@@ -1009,17 +1008,18 @@
     "slug": "nextcloud",
     "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.69%",
+    "uptimeDay": "95.15%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.68%",
     "time": 359,
     "timeDay": 0,
     "timeWeek": 451,
     "timeMonth": 396,
     "timeYear": 378,
     "dailyMinutesDown": {
-      "2023-05-07": 2,
+      "2023-05-08": 13,
+      "2023-05-07": 57,
       "2023-03-29": 26,
       "2023-03-06": 830,
       "2023-03-05": 57,
@@ -1042,8 +1042,7 @@
       "2022-06-12": 18,
       "2022-06-05": 19,
       "2022-05-22": 20,
-      "2022-05-15": 20,
-      "2022-05-08": 20
+      "2022-05-15": 20
     }
   },
   {
@@ -1052,18 +1051,19 @@
     "icon": "https://tronflix.app/plugins/images/tabs/chevereto.png",
     "slug": "chevereto",
     "status": "down",
-    "uptime": "99.84%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.65%",
+    "uptime": "99.83%",
+    "uptimeDay": "95.16%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.63%",
     "time": 271,
     "timeDay": 215,
     "timeWeek": 271,
     "timeMonth": 231,
     "timeYear": 266,
     "dailyMinutesDown": {
-      "2023-05-07": 2,
+      "2023-05-08": 13,
+      "2023-05-07": 57,
       "2023-03-06": 830,
       "2023-03-05": 57,
       "2023-03-01": 56,
@@ -1090,8 +1090,7 @@
       "2022-06-12": 18,
       "2022-06-05": 19,
       "2022-05-22": 20,
-      "2022-05-15": 20,
-      "2022-05-08": 20
+      "2022-05-15": 20
     }
   },
   {
@@ -1100,18 +1099,19 @@
     "icon": "https://tronflix.app/plugins/images/tabs/xbackbone.png",
     "slug": "x-back-bone",
     "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.70%",
+    "uptime": "99.84%",
+    "uptimeDay": "95.15%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.69%",
     "time": 269,
     "timeDay": 0,
     "timeWeek": 381,
     "timeMonth": 320,
     "timeYear": 284,
     "dailyMinutesDown": {
-      "2023-05-07": 2,
+      "2023-05-08": 13,
+      "2023-05-07": 57,
       "2023-03-06": 831,
       "2023-03-05": 57,
       "2023-03-01": 56,
@@ -1133,8 +1133,7 @@
       "2022-06-12": 18,
       "2022-06-05": 19,
       "2022-05-22": 20,
-      "2022-05-15": 20,
-      "2022-05-08": 20
+      "2022-05-15": 20
     }
   },
   {

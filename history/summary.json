@@ -745,19 +745,19 @@
     "url": "https://tronflix.app/lidarr/activity/queue/",
     "icon": "https://tronflix.app/plugins/images/tabs/lidarr.png",
     "slug": "lidarr",
-    "status": "down",
+    "status": "up",
     "uptime": "99.50%",
-    "uptimeDay": "98.66%",
-    "uptimeWeek": "99.41%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "97.91%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.01%",
     "time": 282,
-    "timeDay": 70,
-    "timeWeek": 2918,
-    "timeMonth": 2134,
+    "timeDay": 89,
+    "timeWeek": 2763,
+    "timeMonth": 2089,
     "timeYear": 303,
     "dailyMinutesDown": {
-      "2023-05-22": 19,
+      "2023-05-22": 30,
       "2023-05-19": 18,
       "2023-05-18": 22,
       "2023-03-01": 37,
@@ -874,8 +874,7 @@
       "2022-05-27": 457,
       "2022-05-26": 279,
       "2022-05-25": 43,
-      "2022-05-24": 48,
-      "2022-05-23": 67
+      "2022-05-24": 48
     }
   },
   {

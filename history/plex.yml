@@ -1,7 +1,7 @@
 url: https://tronflix.app/plex/web/index.html
-status: down
-code: 523
-responseTime: 3078
-lastUpdated: 2023-10-12T02:42:44.186Z
+status: up
+code: 200
+responseTime: 70
+lastUpdated: 2023-10-12T02:51:26.904Z
 startTime: 2020-12-08T18:54:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>

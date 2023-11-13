@@ -36,12 +36,6 @@ sites:
     expectedStatusCodes:
       - 200
     maxRedirects: 0
-  - name: Library
-    url: https://library.tronflix.app
-    icon: https://tronflix.app/plugins/images/tabs/library.png
-    expectedStatusCodes:
-      - 200
-    maxRedirects: 0
   - name: Ombi
     url: https://tronflix.app/ombi/
     icon: https://tronflix.app/plugins/images/tabs/ombi.png

@@ -1,7 +1,7 @@
 url: https://tronflix.app/sabnzbd/
-status: up
-code: 200
-responseTime: 17695
-lastUpdated: 2023-12-26T12:48:30.239Z
+status: down
+code: 302
+responseTime: 68
+lastUpdated: 2023-12-26T13:00:02.951Z
 startTime: 2022-01-22T17:03:11.000Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -1,7 +1,7 @@
 url: https://tronflix.app/lidarr/activity/queue/
-status: up
-code: 200
-responseTime: 80
-lastUpdated: 2024-01-18T23:03:25.410Z
+status: down
+code: 302
+responseTime: 90
+lastUpdated: 2024-01-19T15:13:12.791Z
 startTime: 2020-12-08T19:33:57.000Z
 generator: Upptime <https://github.com/upptime/upptime>

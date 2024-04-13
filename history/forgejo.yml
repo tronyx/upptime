@@ -1,7 +1,7 @@
 url: https://forgejo.tronflix.app
-status: down
-code: 502
-responseTime: 91
-lastUpdated: 2024-04-13T21:49:58.261Z
+status: up
+code: 200
+responseTime: 120
+lastUpdated: 2024-04-13T21:58:24.193Z
 startTime: 2024-04-13T11:09:34.824Z
 generator: Upptime <https://github.com/upptime/upptime>

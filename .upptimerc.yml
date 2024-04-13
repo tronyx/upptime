@@ -24,9 +24,9 @@ sites:
     expectedStatusCodes:
       - 200
     maxRedirects: 0
-  - name: Gitea
-    url: https://gitea.tronflix.app
-    icon: https://tronflix.app/plugins/images/tabs/gitea.png
+  - name: Forgejo
+    url: https://forgejo.tronflix.app
+    icon: https://tronflix.app/plugins/images/tabs/forgejo.png
     expectedStatusCodes:
       - 200
     maxRedirects: 0
@@ -189,9 +189,9 @@ sites:
     maxRedirects: 0
     headers:
       - "token: $ORG_API_KEY"
-  - name: Petio
-    url: https://tronflix.app/petio/
-    icon: https://tronflix.app/plugins/images/tabs/petio.png
+  - name: Immich
+    url: https://immich.tronflix.app/
+    icon: https://tronflix.app/plugins/images/tabs/immich.png
     expectedStatusCodes:
       - 200
     maxRedirects: 0

@@ -5,15 +5,15 @@
     "icon": "https://tronflix.app/plugins/images/tabs/TronFlix_Icon_Transparent_BG.png",
     "slug": "tron-flix",
     "status": "up",
-    "uptime": "97.72%",
+    "uptime": "97.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "93.56%",
-    "time": 500,
-    "timeDay": 320,
-    "timeWeek": 333,
-    "timeMonth": 334,
+    "time": 499,
+    "timeDay": 389,
+    "timeWeek": 339,
+    "timeMonth": 336,
     "timeYear": 376,
     "dailyMinutesDown": {
       "2024-10-05": 23,
@@ -47,8 +47,7 @@
       "2023-11-11": 1440,
       "2023-11-10": 1440,
       "2023-11-09": 874,
-      "2023-10-17": 66,
-      "2023-10-11": 51
+      "2023-10-17": 66
     }
   },
   {
@@ -63,7 +62,7 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "93.90%",
     "time": 240,
-    "timeDay": 125,
+    "timeDay": 121,
     "timeWeek": 122,
     "timeMonth": 117,
     "timeYear": 114,
@@ -101,8 +100,7 @@
       "2024-01-19": 171,
       "2024-01-02": 63,
       "2023-12-26": 341,
-      "2023-10-17": 66,
-      "2023-10-11": 60
+      "2023-10-17": 66
     }
   },
   {
@@ -117,7 +115,7 @@
     "uptimeMonth": "97.95%",
     "uptimeYear": "98.92%",
     "time": 214,
-    "timeDay": 134,
+    "timeDay": 120,
     "timeWeek": 566,
     "timeMonth": 274,
     "timeYear": 205,
@@ -182,10 +180,10 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "93.94%",
     "time": 414,
-    "timeDay": 267,
+    "timeDay": 260,
     "timeWeek": 285,
     "timeMonth": 279,
-    "timeYear": 361,
+    "timeYear": 360,
     "dailyMinutesDown": {
       "2024-10-05": 23,
       "2024-09-19": 15,
@@ -218,8 +216,7 @@
       "2024-01-19": 151,
       "2024-01-02": 61,
       "2023-12-26": 355,
-      "2023-10-17": 65,
-      "2023-10-11": 60
+      "2023-10-17": 65
     }
   },
   {
@@ -234,10 +231,10 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "91.13%",
     "time": 223,
-    "timeDay": 92,
+    "timeDay": 87,
     "timeWeek": 91,
     "timeMonth": 86,
-    "timeYear": 179,
+    "timeYear": 178,
     "dailyMinutesDown": {
       "2024-10-05": 23,
       "2024-09-22": 16,
@@ -280,8 +277,7 @@
       "2024-01-04": 1440,
       "2024-01-03": 1440,
       "2024-01-02": 837,
-      "2023-10-17": 64,
-      "2023-10-11": 51
+      "2023-10-17": 64
     }
   },
   {
@@ -290,16 +286,16 @@
     "icon": "https://tronflix.app/plugins/images/tabs/pihole.png",
     "slug": "pi-hole",
     "status": "up",
-    "uptime": "96.78%",
+    "uptime": "96.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "91.85%",
-    "time": 461,
-    "timeDay": 283,
+    "time": 460,
+    "timeDay": 257,
     "timeWeek": 337,
     "timeMonth": 302,
-    "timeYear": 356,
+    "timeYear": 355,
     "dailyMinutesDown": {
       "2024-10-05": 23,
       "2024-09-22": 16,
@@ -339,8 +335,7 @@
       "2024-01-04": 1440,
       "2024-01-03": 1440,
       "2024-01-02": 837,
-      "2023-10-17": 56,
-      "2023-10-11": 51
+      "2023-10-17": 56
     }
   },
   {
@@ -349,15 +344,15 @@
     "icon": "https://tronflix.app/plugins/images/tabs/pihole.png",
     "slug": "pi-hole-backup",
     "status": "up",
-    "uptime": "95.12%",
+    "uptime": "95.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "91.85%",
-    "time": 344,
-    "timeDay": 243,
-    "timeWeek": 325,
-    "timeMonth": 283,
+    "time": 343,
+    "timeDay": 361,
+    "timeWeek": 332,
+    "timeMonth": 285,
     "timeYear": 298,
     "dailyMinutesDown": {
       "2024-10-05": 23,
@@ -398,8 +393,7 @@
       "2024-01-04": 1440,
       "2024-01-03": 1440,
       "2024-01-02": 837,
-      "2023-10-17": 55,
-      "2023-10-11": 51
+      "2023-10-17": 55
     }
   },
   {
@@ -414,7 +408,7 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "93.87%",
     "time": 215,
-    "timeDay": 88,
+    "timeDay": 86,
     "timeWeek": 127,
     "timeMonth": 94,
     "timeYear": 136,
@@ -452,8 +446,7 @@
       "2024-01-19": 151,
       "2024-01-02": 50,
       "2023-12-26": 540,
-      "2023-10-17": 55,
-      "2023-10-11": 60
+      "2023-10-17": 55
     }
   },
   {
@@ -468,8 +461,8 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "93.88%",
     "time": 119,
-    "timeDay": 91,
-    "timeWeek": 82,
+    "timeDay": 85,
+    "timeWeek": 81,
     "timeMonth": 84,
     "timeYear": 110,
     "dailyMinutesDown": {
@@ -506,8 +499,7 @@
       "2024-01-19": 151,
       "2024-01-02": 47,
       "2023-12-26": 536,
-      "2023-10-17": 55,
-      "2023-10-11": 60
+      "2023-10-17": 55
     }
   },
   {
@@ -516,13 +508,13 @@
     "icon": "https://tronflix.app/plugins/images/tabs/radarr4k.png",
     "slug": "radarr4-k",
     "status": "up",
-    "uptime": "97.81%",
+    "uptime": "97.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "93.89%",
     "time": 135,
-    "timeDay": 86,
+    "timeDay": 89,
     "timeWeek": 85,
     "timeMonth": 81,
     "timeYear": 123,
@@ -560,8 +552,7 @@
       "2024-01-19": 151,
       "2024-01-02": 47,
       "2023-12-26": 534,
-      "2023-10-17": 54,
-      "2023-10-11": 60
+      "2023-10-17": 54
     }
   },
   {
@@ -576,8 +567,8 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "93.88%",
     "time": 180,
-    "timeDay": 94,
-    "timeWeek": 93,
+    "timeDay": 80,
+    "timeWeek": 92,
     "timeMonth": 84,
     "timeYear": 128,
     "dailyMinutesDown": {
@@ -614,8 +605,7 @@
       "2024-01-19": 138,
       "2024-01-02": 47,
       "2023-12-26": 508,
-      "2023-10-17": 54,
-      "2023-10-11": 60
+      "2023-10-17": 54
     }
   },
   {
@@ -630,10 +620,10 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "93.88%",
     "time": 136,
-    "timeDay": 87,
-    "timeWeek": 103,
+    "timeDay": 81,
+    "timeWeek": 102,
     "timeMonth": 87,
-    "timeYear": 103,
+    "timeYear": 102,
     "dailyMinutesDown": {
       "2024-10-05": 23,
       "2024-09-22": 16,
@@ -668,8 +658,7 @@
       "2024-01-19": 150,
       "2024-01-02": 47,
       "2023-12-26": 528,
-      "2023-10-17": 53,
-      "2023-10-11": 60
+      "2023-10-17": 53
     }
   },
   {
@@ -678,15 +667,15 @@
     "icon": "https://tronflix.app/plugins/images/tabs/sonarr4k.png",
     "slug": "sonarr4-k",
     "status": "up",
-    "uptime": "90.05%",
+    "uptime": "90.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.87%",
-    "uptimeYear": "90.05%",
+    "uptimeYear": "90.09%",
     "time": 94,
-    "timeDay": 90,
+    "timeDay": 89,
     "timeWeek": 97,
-    "timeMonth": 86,
+    "timeMonth": 87,
     "timeYear": 94,
     "dailyMinutesDown": {
       "2024-10-05": 23,
@@ -744,7 +733,7 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "93.88%",
     "time": 174,
-    "timeDay": 89,
+    "timeDay": 94,
     "timeWeek": 96,
     "timeMonth": 85,
     "timeYear": 113,
@@ -783,8 +772,7 @@
       "2024-01-19": 150,
       "2024-01-02": 47,
       "2023-12-26": 522,
-      "2023-10-17": 53,
-      "2023-10-11": 51
+      "2023-10-17": 53
     }
   },
   {
@@ -799,9 +787,9 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "91.13%",
     "time": 173,
-    "timeDay": 85,
+    "timeDay": 83,
     "timeWeek": 95,
-    "timeMonth": 83,
+    "timeMonth": 82,
     "timeYear": 98,
     "dailyMinutesDown": {
       "2024-10-05": 23,
@@ -846,8 +834,7 @@
       "2024-01-03": 1440,
       "2024-01-02": 837,
       "2023-10-17": 53,
-      "2023-10-12": 15,
-      "2023-10-11": 51
+      "2023-10-12": 15
     }
   },
   {
@@ -856,16 +843,16 @@
     "icon": "https://tronflix.app/plugins/images/tabs/nagios.png",
     "slug": "nagios",
     "status": "up",
-    "uptime": "97.10%",
+    "uptime": "97.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "91.15%",
     "time": 261,
-    "timeDay": 212,
-    "timeWeek": 278,
-    "timeMonth": 252,
-    "timeYear": 257,
+    "timeDay": 214,
+    "timeWeek": 277,
+    "timeMonth": 250,
+    "timeYear": 256,
     "dailyMinutesDown": {
       "2024-10-05": 23,
       "2024-09-22": 16,
@@ -908,8 +895,7 @@
       "2024-01-04": 1440,
       "2024-01-03": 1440,
       "2024-01-02": 837,
-      "2023-10-17": 52,
-      "2023-10-11": 51
+      "2023-10-17": 52
     }
   },
   {
@@ -918,13 +904,13 @@
     "icon": "https://tronflix.app/plugins/images/tabs/qBittorrent.png",
     "slug": "q-bit",
     "status": "up",
-    "uptime": "97.27%",
+    "uptime": "97.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "93.13%",
     "time": 125,
-    "timeDay": 95,
+    "timeDay": 93,
     "timeWeek": 106,
     "timeMonth": 90,
     "timeYear": 102,
@@ -966,8 +952,7 @@
       "2024-01-08": 494,
       "2024-01-02": 50,
       "2023-12-26": 288,
-      "2023-10-17": 52,
-      "2023-10-11": 889
+      "2023-10-17": 52
     }
   },
   {
@@ -981,11 +966,11 @@
     "uptimeWeek": "99.77%",
     "uptimeMonth": "97.95%",
     "uptimeYear": "98.37%",
-    "time": 386,
-    "timeDay": 1291,
-    "timeWeek": 1326,
-    "timeMonth": 1049,
-    "timeYear": 379,
+    "time": 387,
+    "timeDay": 1257,
+    "timeWeek": 1323,
+    "timeMonth": 1075,
+    "timeYear": 381,
     "dailyMinutesDown": {
       "2024-10-05": 23,
       "2024-09-19": 15,
@@ -1022,8 +1007,8 @@
     "uptimeMonth": "97.95%",
     "uptimeYear": "98.91%",
     "time": 250,
-    "timeDay": 173,
-    "timeWeek": 205,
+    "timeDay": 157,
+    "timeWeek": 195,
     "timeMonth": 196,
     "timeYear": 258,
     "dailyMinutesDown": {
@@ -1053,14 +1038,14 @@
     "icon": "https://tronflix.app/plugins/images/tabs/zipline.png",
     "slug": "zipline",
     "status": "up",
-    "uptime": "98.65%",
+    "uptime": "98.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.04%",
-    "uptimeYear": "98.65%",
+    "uptimeYear": "98.68%",
     "time": 169,
-    "timeDay": 128,
-    "timeWeek": 160,
+    "timeDay": 161,
+    "timeWeek": 162,
     "timeMonth": 159,
     "timeYear": 169,
     "dailyMinutesDown": {
@@ -1080,9 +1065,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "93.89%",
     "time": 276,
-    "timeDay": 224,
+    "timeDay": 238,
     "timeWeek": 287,
-    "timeMonth": 242,
+    "timeMonth": 243,
     "timeYear": 256,
     "dailyMinutesDown": {
       "2024-09-22": 16,
@@ -1114,8 +1099,7 @@
       "2024-01-19": 150,
       "2024-01-02": 57,
       "2023-12-26": 673,
-      "2023-10-17": 51,
-      "2023-10-11": 51
+      "2023-10-17": 51
     }
   },
   {
@@ -1129,10 +1113,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "93.93%",
-    "time": 286,
-    "timeDay": 293,
-    "timeWeek": 222,
-    "timeMonth": 212,
+    "time": 285,
+    "timeDay": 273,
+    "timeWeek": 224,
+    "timeMonth": 213,
     "timeYear": 261,
     "dailyMinutesDown": {
       "2024-09-22": 16,
@@ -1165,8 +1149,7 @@
       "2024-01-19": 150,
       "2024-01-02": 55,
       "2023-12-26": 328,
-      "2023-10-17": 50,
-      "2023-10-11": 51
+      "2023-10-17": 50
     }
   },
   {
@@ -1181,10 +1164,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "91.15%",
     "time": 416,
-    "timeDay": 348,
-    "timeWeek": 353,
+    "timeDay": 328,
+    "timeWeek": 354,
     "timeMonth": 324,
-    "timeYear": 369,
+    "timeYear": 368,
     "dailyMinutesDown": {
       "2024-09-22": 16,
       "2024-08-15": 159,
@@ -1224,8 +1207,7 @@
       "2024-01-04": 1440,
       "2024-01-03": 1440,
       "2024-01-02": 837,
-      "2023-10-17": 50,
-      "2023-10-11": 51
+      "2023-10-17": 50
     }
   },
   {
@@ -1240,9 +1222,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "93.95%",
     "time": 159,
-    "timeDay": 86,
+    "timeDay": 89,
     "timeWeek": 87,
-    "timeMonth": 84,
+    "timeMonth": 83,
     "timeYear": 105,
     "dailyMinutesDown": {
       "2024-09-22": 16,
@@ -1275,8 +1257,7 @@
       "2024-01-19": 150,
       "2024-01-02": 54,
       "2023-12-26": 292,
-      "2023-10-17": 50,
-      "2023-10-11": 51
+      "2023-10-17": 50
     }
   },
   {
@@ -1291,7 +1272,7 @@
     "uptimeMonth": "96.07%",
     "uptimeYear": "99.08%",
     "time": 129,
-    "timeDay": 118,
+    "timeDay": 107,
     "timeWeek": 139,
     "timeMonth": 128,
     "timeYear": 129,
@@ -1319,9 +1300,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.28%",
-    "time": 345,
-    "timeDay": 240,
-    "timeWeek": 266,
+    "time": 344,
+    "timeDay": 223,
+    "timeWeek": 265,
     "timeMonth": 221,
     "timeYear": 332,
     "dailyMinutesDown": {
@@ -1338,8 +1319,7 @@
       "2024-01-19": 138,
       "2024-01-02": 52,
       "2023-12-26": 276,
-      "2023-10-17": 48,
-      "2023-10-11": 51
+      "2023-10-17": 48
     }
   },
   {
@@ -1354,8 +1334,8 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.70%",
     "time": 141,
-    "timeDay": 114,
-    "timeWeek": 91,
+    "timeDay": 92,
+    "timeWeek": 90,
     "timeMonth": 87,
     "timeYear": 135,
     "dailyMinutesDown": {

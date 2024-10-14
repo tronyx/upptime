@@ -1,7 +1,7 @@
 url: https://tronflix.app/qbit/
-status: up
-code: 200
+status: down
+code: 302
 responseTime: 80
-lastUpdated: 2024-10-13T23:03:13.856Z
+lastUpdated: 2024-10-14T11:34:16.827Z
 startTime: 2021-02-23T12:39:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>

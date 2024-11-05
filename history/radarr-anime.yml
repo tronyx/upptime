@@ -1,7 +1,7 @@
 url: https://tronflix.app/radarr-anime/activity/queue/
-status: down
-code: 521
-responseTime: 87
-lastUpdated: 2024-11-04T23:03:31.116Z
+status: up
+code: 200
+responseTime: 76
+lastUpdated: 2024-11-05T02:20:30.864Z
 startTime: 2022-08-28T22:48:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>

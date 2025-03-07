@@ -1,7 +1,7 @@
 url: https://nagios.tronflix.app
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-03-07T15:42:53.979Z
+status: up
+code: 401
+responseTime: 190
+lastUpdated: 2025-03-07T15:49:31.359Z
 startTime: 2020-12-08T19:33:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>

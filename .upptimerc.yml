@@ -45,7 +45,7 @@ sites:
     headers:
       - "token: $ORG_API_KEY"
   - name: PiHole
-    url: https://pihole.tronflix.app/admin/login.php
+    url: https://pihole.tronflix.app/admin/login
     icon: https://tronflix.app/plugins/images/tabs/pihole.png
     expectedStatusCodes:
       - 200
@@ -53,7 +53,7 @@ sites:
     headers:
       - "token: $ORG_API_KEY"
   - name: PiHole Backup
-    url: https://pihole-backup.tronflix.app/admin/login.php
+    url: https://pihole-backup.tronflix.app/admin/login
     icon: https://tronflix.app/plugins/images/tabs/pihole.png
     expectedStatusCodes:
       - 200

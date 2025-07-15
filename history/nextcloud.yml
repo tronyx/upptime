@@ -1,7 +1,7 @@
 url: https://nextcloud.tronflix.app/login
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-07-15T22:57:30.839Z
+status: up
+code: 200
+responseTime: 1397
+lastUpdated: 2025-07-15T23:04:11.244Z
 startTime: 2020-12-08T19:34:02.000Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -1,7 +1,7 @@
 url: https://tronflix.app/bazarr/system/status
-status: down
-code: 520
-responseTime: 157
-lastUpdated: 2025-07-29T19:44:45.395Z
+status: up
+code: 200
+responseTime: 222
+lastUpdated: 2025-07-29T20:00:31.158Z
 startTime: 2021-01-19T18:59:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>

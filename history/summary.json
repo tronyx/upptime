@@ -6,17 +6,17 @@
     "slug": "tron-flix",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "88.03%",
-    "uptimeWeek": "84.81%",
+    "uptimeDay": "88.63%",
+    "uptimeWeek": "84.75%",
     "uptimeMonth": "94.87%",
     "uptimeYear": "99.57%",
     "time": 442,
-    "timeDay": 375,
+    "timeDay": 371,
     "timeWeek": 424,
-    "timeMonth": 427,
+    "timeMonth": 426,
     "timeYear": 453,
     "dailyMinutesDown": {
-      "2025-08-18": 77,
+      "2025-08-18": 93,
       "2025-08-17": 126,
       "2025-08-16": 153,
       "2025-08-15": 442,
@@ -26,7 +26,7 @@
       "2025-08-11": 346,
       "2025-08-10": 284,
       "2025-08-09": 138,
-      "2025-08-08": 67
+      "2025-08-08": 51
     }
   },
   {
@@ -36,17 +36,17 @@
     "slug": "plex",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "88.03%",
-    "uptimeWeek": "85.02%",
-    "uptimeMonth": "94.85%",
+    "uptimeDay": "88.64%",
+    "uptimeWeek": "84.95%",
+    "uptimeMonth": "94.84%",
     "uptimeYear": "99.57%",
     "time": 146,
-    "timeDay": 98,
+    "timeDay": 103,
     "timeWeek": 125,
     "timeMonth": 117,
     "timeYear": 152,
     "dailyMinutesDown": {
-      "2025-08-18": 77,
+      "2025-08-18": 93,
       "2025-08-17": 126,
       "2025-08-16": 153,
       "2025-08-15": 442,
@@ -56,7 +56,7 @@
       "2025-08-11": 346,
       "2025-08-10": 284,
       "2025-08-09": 138,
-      "2025-08-08": 97
+      "2025-08-08": 87
     }
   },
   {
@@ -66,17 +66,17 @@
     "slug": "bitwarden",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "95.17%",
-    "uptimeWeek": "89.34%",
+    "uptimeDay": "94.64%",
+    "uptimeWeek": "89.28%",
     "uptimeMonth": "92.59%",
     "uptimeYear": "99.38%",
     "time": 186,
-    "timeDay": 159,
-    "timeWeek": 174,
-    "timeMonth": 172,
+    "timeDay": 160,
+    "timeWeek": 173,
+    "timeMonth": 171,
     "timeYear": 191,
     "dailyMinutesDown": {
-      "2025-08-18": 61,
+      "2025-08-18": 77,
       "2025-08-17": 39,
       "2025-08-16": 112,
       "2025-08-15": 428,
@@ -93,7 +93,7 @@
       "2025-08-04": 198,
       "2025-08-03": 88,
       "2025-08-02": 67,
-      "2025-08-01": 52
+      "2025-08-01": 37
     }
   },
   {
@@ -103,17 +103,17 @@
     "slug": "forgejo",
     "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "95.16%",
-    "uptimeWeek": "89.42%",
-    "uptimeMonth": "92.59%",
+    "uptimeDay": "94.64%",
+    "uptimeWeek": "89.35%",
+    "uptimeMonth": "92.57%",
     "uptimeYear": "99.38%",
     "time": 209,
-    "timeDay": 160,
+    "timeDay": 185,
     "timeWeek": 192,
     "timeMonth": 194,
     "timeYear": 209,
     "dailyMinutesDown": {
-      "2025-08-18": 61,
+      "2025-08-18": 77,
       "2025-08-17": 39,
       "2025-08-16": 112,
       "2025-08-15": 419,
@@ -130,7 +130,7 @@
       "2025-08-04": 198,
       "2025-08-03": 88,
       "2025-08-02": 67,
-      "2025-08-01": 61
+      "2025-08-01": 52
     }
   },
   {
@@ -140,17 +140,17 @@
     "slug": "grafana",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "88.59%",
-    "uptimeWeek": "85.97%",
-    "uptimeMonth": "93.96%",
+    "uptimeDay": "88.64%",
+    "uptimeWeek": "85.81%",
+    "uptimeMonth": "93.95%",
     "uptimeYear": "99.50%",
-    "time": 415,
-    "timeDay": 359,
-    "timeWeek": 424,
-    "timeMonth": 393,
+    "time": 416,
+    "timeDay": 461,
+    "timeWeek": 432,
+    "timeMonth": 394,
     "timeYear": 426,
     "dailyMinutesDown": {
-      "2025-08-18": 77,
+      "2025-08-18": 93,
       "2025-08-17": 118,
       "2025-08-16": 131,
       "2025-08-15": 416,
@@ -164,7 +164,7 @@
       "2025-08-07": 162,
       "2025-08-06": 54,
       "2025-08-05": 161,
-      "2025-08-04": 184
+      "2025-08-04": 171
     }
   },
   {
@@ -174,17 +174,17 @@
     "slug": "ombi",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "88.59%",
-    "uptimeWeek": "86.10%",
+    "uptimeDay": "88.64%",
+    "uptimeWeek": "85.94%",
     "uptimeMonth": "93.95%",
     "uptimeYear": "99.50%",
     "time": 112,
-    "timeDay": 92,
+    "timeDay": 95,
     "timeWeek": 99,
     "timeMonth": 95,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2025-08-18": 77,
+      "2025-08-18": 93,
       "2025-08-17": 118,
       "2025-08-16": 131,
       "2025-08-15": 416,
@@ -198,8 +198,7 @@
       "2025-08-07": 162,
       "2025-08-06": 53,
       "2025-08-05": 161,
-      "2025-08-04": 184,
-      "2025-08-03": 16
+      "2025-08-04": 184
     }
   },
   {
@@ -209,17 +208,17 @@
     "slug": "pi-hole",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "88.59%",
-    "uptimeWeek": "86.19%",
+    "uptimeDay": "88.64%",
+    "uptimeWeek": "86.03%",
     "uptimeMonth": "93.93%",
     "uptimeYear": "99.49%",
-    "time": 384,
-    "timeDay": 330,
-    "timeWeek": 383,
-    "timeMonth": 384,
-    "timeYear": 391,
+    "time": 385,
+    "timeDay": 410,
+    "timeWeek": 389,
+    "timeMonth": 385,
+    "timeYear": 392,
     "dailyMinutesDown": {
-      "2025-08-18": 77,
+      "2025-08-18": 93,
       "2025-08-17": 118,
       "2025-08-16": 131,
       "2025-08-15": 416,
@@ -234,7 +233,7 @@
       "2025-08-06": 53,
       "2025-08-05": 161,
       "2025-08-04": 184,
-      "2025-08-03": 33
+      "2025-08-03": 16
     }
   },
   {
@@ -244,17 +243,17 @@
     "slug": "pi-hole-backup",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "89.22%",
-    "uptimeWeek": "88.10%",
+    "uptimeDay": "89.28%",
+    "uptimeWeek": "87.94%",
     "uptimeMonth": "92.57%",
     "uptimeYear": "99.38%",
     "time": 346,
-    "timeDay": 349,
-    "timeWeek": 362,
+    "timeDay": 402,
+    "timeWeek": 365,
     "timeMonth": 350,
     "timeYear": 354,
     "dailyMinutesDown": {
-      "2025-08-18": 68,
+      "2025-08-18": 84,
       "2025-08-17": 118,
       "2025-08-16": 89,
       "2025-08-15": 371,
@@ -280,7 +279,7 @@
       "2025-07-26": 4,
       "2025-07-25": 18,
       "2025-07-24": 30,
-      "2025-07-23": 99
+      "2025-07-23": 82
     }
   },
   {
@@ -290,17 +289,17 @@
     "slug": "radarr",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "89.22%",
-    "uptimeWeek": "88.42%",
-    "uptimeMonth": "92.54%",
+    "uptimeDay": "89.29%",
+    "uptimeWeek": "88.26%",
+    "uptimeMonth": "92.55%",
     "uptimeYear": "99.38%",
     "time": 133,
-    "timeDay": 75,
+    "timeDay": 78,
     "timeWeek": 93,
     "timeMonth": 89,
     "timeYear": 136,
     "dailyMinutesDown": {
-      "2025-08-18": 68,
+      "2025-08-18": 84,
       "2025-08-17": 104,
       "2025-08-16": 89,
       "2025-08-15": 371,
@@ -327,7 +326,7 @@
       "2025-07-25": 18,
       "2025-07-24": 30,
       "2025-07-23": 151,
-      "2025-07-22": 43
+      "2025-07-22": 24
     }
   },
   {
@@ -337,17 +336,17 @@
     "slug": "radarr-anime",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "89.22%",
-    "uptimeWeek": "88.41%",
-    "uptimeMonth": "92.49%",
-    "uptimeYear": "99.37%",
+    "uptimeDay": "89.29%",
+    "uptimeWeek": "88.25%",
+    "uptimeMonth": "92.51%",
+    "uptimeYear": "99.38%",
     "time": 117,
-    "timeDay": 81,
+    "timeDay": 84,
     "timeWeek": 96,
-    "timeMonth": 89,
+    "timeMonth": 88,
     "timeYear": 119,
     "dailyMinutesDown": {
-      "2025-08-18": 68,
+      "2025-08-18": 84,
       "2025-08-17": 104,
       "2025-08-16": 89,
       "2025-08-15": 371,
@@ -374,7 +373,7 @@
       "2025-07-25": 18,
       "2025-07-24": 30,
       "2025-07-23": 151,
-      "2025-07-22": 91
+      "2025-07-22": 67
     }
   },
   {
@@ -384,17 +383,17 @@
     "slug": "radarr4-k",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "89.22%",
-    "uptimeWeek": "88.41%",
-    "uptimeMonth": "92.49%",
-    "uptimeYear": "99.37%",
+    "uptimeDay": "89.29%",
+    "uptimeWeek": "88.25%",
+    "uptimeMonth": "92.51%",
+    "uptimeYear": "99.38%",
     "time": 109,
-    "timeDay": 75,
+    "timeDay": 77,
     "timeWeek": 96,
     "timeMonth": 88,
     "timeYear": 111,
     "dailyMinutesDown": {
-      "2025-08-18": 68,
+      "2025-08-18": 84,
       "2025-08-17": 104,
       "2025-08-16": 89,
       "2025-08-15": 371,
@@ -421,7 +420,7 @@
       "2025-07-25": 18,
       "2025-07-24": 30,
       "2025-07-23": 151,
-      "2025-07-22": 91
+      "2025-07-22": 67
     }
   },
   {
@@ -431,17 +430,17 @@
     "slug": "sonarr",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "89.22%",
-    "uptimeWeek": "88.41%",
-    "uptimeMonth": "92.45%",
+    "uptimeDay": "89.29%",
+    "uptimeWeek": "88.25%",
+    "uptimeMonth": "92.47%",
     "uptimeYear": "99.37%",
     "time": 129,
-    "timeDay": 77,
+    "timeDay": 78,
     "timeWeek": 93,
     "timeMonth": 89,
     "timeYear": 133,
     "dailyMinutesDown": {
-      "2025-08-18": 68,
+      "2025-08-18": 84,
       "2025-08-17": 104,
       "2025-08-16": 88,
       "2025-08-15": 371,
@@ -468,7 +467,7 @@
       "2025-07-25": 18,
       "2025-07-24": 30,
       "2025-07-23": 168,
-      "2025-07-22": 91
+      "2025-07-22": 67
     }
   },
   {
@@ -478,17 +477,17 @@
     "slug": "sonarr-anime",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "89.22%",
-    "uptimeWeek": "88.41%",
-    "uptimeMonth": "92.49%",
-    "uptimeYear": "99.37%",
+    "uptimeDay": "89.30%",
+    "uptimeWeek": "88.25%",
+    "uptimeMonth": "92.50%",
+    "uptimeYear": "99.38%",
     "time": 110,
-    "timeDay": 88,
+    "timeDay": 92,
     "timeWeek": 98,
     "timeMonth": 90,
     "timeYear": 111,
     "dailyMinutesDown": {
-      "2025-08-18": 68,
+      "2025-08-18": 84,
       "2025-08-17": 104,
       "2025-08-16": 88,
       "2025-08-15": 371,
@@ -515,7 +514,7 @@
       "2025-07-25": 18,
       "2025-07-24": 30,
       "2025-07-23": 151,
-      "2025-07-22": 91
+      "2025-07-22": 67
     }
   },
   {
@@ -525,17 +524,17 @@
     "slug": "sonarr4-k",
     "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "89.22%",
-    "uptimeWeek": "88.41%",
-    "uptimeMonth": "92.49%",
-    "uptimeYear": "99.37%",
+    "uptimeDay": "89.30%",
+    "uptimeWeek": "88.25%",
+    "uptimeMonth": "92.50%",
+    "uptimeYear": "99.38%",
     "time": 119,
-    "timeDay": 82,
+    "timeDay": 80,
     "timeWeek": 100,
     "timeMonth": 92,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2025-08-18": 68,
+      "2025-08-18": 84,
       "2025-08-17": 104,
       "2025-08-16": 88,
       "2025-08-15": 372,
@@ -562,7 +561,7 @@
       "2025-07-25": 18,
       "2025-07-24": 30,
       "2025-07-23": 150,
-      "2025-07-22": 91
+      "2025-07-22": 67
     }
   },
   {
@@ -572,17 +571,17 @@
     "slug": "lidarr",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "89.22%",
-    "uptimeWeek": "85.90%",
-    "uptimeMonth": "91.91%",
+    "uptimeDay": "89.30%",
+    "uptimeWeek": "85.74%",
+    "uptimeMonth": "91.93%",
     "uptimeYear": "99.33%",
     "time": 124,
-    "timeDay": 80,
+    "timeDay": 81,
     "timeWeek": 93,
     "timeMonth": 89,
     "timeYear": 127,
     "dailyMinutesDown": {
-      "2025-08-18": 68,
+      "2025-08-18": 84,
       "2025-08-17": 104,
       "2025-08-16": 88,
       "2025-08-15": 372,
@@ -609,7 +608,7 @@
       "2025-07-25": 18,
       "2025-07-24": 30,
       "2025-07-23": 150,
-      "2025-07-22": 91
+      "2025-07-22": 67
     }
   },
   {
@@ -619,17 +618,17 @@
     "slug": "tautulli",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "89.21%",
-    "uptimeWeek": "88.40%",
-    "uptimeMonth": "92.48%",
-    "uptimeYear": "99.37%",
+    "uptimeDay": "89.30%",
+    "uptimeWeek": "88.24%",
+    "uptimeMonth": "92.50%",
+    "uptimeYear": "99.38%",
     "time": 111,
-    "timeDay": 76,
+    "timeDay": 79,
     "timeWeek": 93,
     "timeMonth": 89,
     "timeYear": 114,
     "dailyMinutesDown": {
-      "2025-08-18": 68,
+      "2025-08-18": 84,
       "2025-08-17": 104,
       "2025-08-16": 88,
       "2025-08-15": 372,
@@ -656,7 +655,7 @@
       "2025-07-25": 18,
       "2025-07-24": 30,
       "2025-07-23": 150,
-      "2025-07-22": 91
+      "2025-07-22": 67
     }
   },
   {
@@ -666,17 +665,17 @@
     "slug": "nagios",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "89.21%",
-    "uptimeWeek": "88.40%",
-    "uptimeMonth": "92.48%",
+    "uptimeDay": "89.31%",
+    "uptimeWeek": "88.24%",
+    "uptimeMonth": "92.50%",
     "uptimeYear": "99.37%",
     "time": 286,
-    "timeDay": 268,
+    "timeDay": 294,
     "timeWeek": 293,
-    "timeMonth": 287,
+    "timeMonth": 286,
     "timeYear": 288,
     "dailyMinutesDown": {
-      "2025-08-18": 68,
+      "2025-08-18": 84,
       "2025-08-17": 104,
       "2025-08-16": 88,
       "2025-08-15": 372,
@@ -703,7 +702,7 @@
       "2025-07-25": 18,
       "2025-07-24": 30,
       "2025-07-23": 150,
-      "2025-07-22": 90
+      "2025-07-22": 66
     }
   },
   {
@@ -713,17 +712,17 @@
     "slug": "q-bit",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "89.21%",
-    "uptimeWeek": "88.40%",
-    "uptimeMonth": "92.48%",
+    "uptimeDay": "89.31%",
+    "uptimeWeek": "88.24%",
+    "uptimeMonth": "92.50%",
     "uptimeYear": "99.37%",
     "time": 141,
-    "timeDay": 79,
+    "timeDay": 81,
     "timeWeek": 95,
     "timeMonth": 117,
     "timeYear": 145,
     "dailyMinutesDown": {
-      "2025-08-18": 69,
+      "2025-08-18": 85,
       "2025-08-17": 104,
       "2025-08-16": 88,
       "2025-08-15": 372,
@@ -750,7 +749,7 @@
       "2025-07-25": 18,
       "2025-07-24": 30,
       "2025-07-23": 150,
-      "2025-07-22": 91
+      "2025-07-22": 67
     }
   },
   {
@@ -760,17 +759,17 @@
     "slug": "nextcloud",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "96.37%",
-    "uptimeWeek": "92.03%",
+    "uptimeDay": "95.24%",
+    "uptimeWeek": "91.87%",
     "uptimeMonth": "91.72%",
     "uptimeYear": "99.10%",
-    "time": 1148,
-    "timeDay": 1364,
+    "time": 1150,
+    "timeDay": 1369,
     "timeWeek": 1370,
     "timeMonth": 1391,
     "timeYear": 1330,
     "dailyMinutesDown": {
-      "2025-08-18": 52,
+      "2025-08-18": 68,
       "2025-08-17": 17,
       "2025-08-16": 69,
       "2025-08-15": 376,
@@ -811,8 +810,7 @@
       "2025-04-13": 297,
       "2025-04-09": 32,
       "2025-03-17": 30,
-      "2025-03-15": 20,
-      "2025-03-13": 27
+      "2025-03-15": 20
     }
   },
   {
@@ -825,14 +823,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "45.57%",
+    "uptimeYear": "45.54%",
     "time": 262,
     "timeDay": 314,
     "timeWeek": 363,
     "timeMonth": 361,
     "timeYear": 272,
     "dailyMinutesDown": {
-      "2025-08-18": 857,
+      "2025-08-18": 1004,
       "2025-08-17": 1440,
       "2025-08-16": 1440,
       "2025-08-15": 1440,
@@ -1048,17 +1046,17 @@
     "slug": "zipline",
     "status": "up",
     "uptime": "99.04%",
-    "uptimeDay": "96.37%",
-    "uptimeWeek": "90.71%",
+    "uptimeDay": "95.24%",
+    "uptimeWeek": "90.55%",
     "uptimeMonth": "91.26%",
     "uptimeYear": "99.04%",
     "time": 198,
-    "timeDay": 171,
-    "timeWeek": 194,
+    "timeDay": 188,
+    "timeWeek": 195,
     "timeMonth": 193,
     "timeYear": 198,
     "dailyMinutesDown": {
-      "2025-08-18": 52,
+      "2025-08-18": 68,
       "2025-08-17": 17,
       "2025-08-16": 69,
       "2025-08-15": 376,
@@ -1099,8 +1097,7 @@
       "2025-04-13": 297,
       "2025-04-09": 32,
       "2025-03-17": 30,
-      "2025-03-15": 20,
-      "2025-03-13": 27
+      "2025-03-15": 20
     }
   },
   {
@@ -1110,17 +1107,17 @@
     "slug": "file-browser",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "89.20%",
-    "uptimeWeek": "87.07%",
-    "uptimeMonth": "92.17%",
+    "uptimeDay": "89.31%",
+    "uptimeWeek": "86.91%",
+    "uptimeMonth": "92.19%",
     "uptimeYear": "99.35%",
     "time": 343,
-    "timeDay": 289,
-    "timeWeek": 368,
+    "timeDay": 338,
+    "timeWeek": 370,
     "timeMonth": 335,
     "timeYear": 351,
     "dailyMinutesDown": {
-      "2025-08-18": 69,
+      "2025-08-18": 85,
       "2025-08-17": 104,
       "2025-08-16": 88,
       "2025-08-15": 373,
@@ -1147,7 +1144,7 @@
       "2025-07-25": 18,
       "2025-07-24": 30,
       "2025-07-23": 150,
-      "2025-07-22": 91
+      "2025-07-22": 67
     }
   },
   {
@@ -1157,17 +1154,17 @@
     "slug": "bazarr",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "89.19%",
-    "uptimeWeek": "88.39%",
-    "uptimeMonth": "92.48%",
+    "uptimeDay": "89.31%",
+    "uptimeWeek": "88.23%",
+    "uptimeMonth": "92.49%",
     "uptimeYear": "99.37%",
     "time": 255,
-    "timeDay": 208,
-    "timeWeek": 242,
-    "timeMonth": 226,
-    "timeYear": 257,
+    "timeDay": 271,
+    "timeWeek": 246,
+    "timeMonth": 227,
+    "timeYear": 258,
     "dailyMinutesDown": {
-      "2025-08-18": 69,
+      "2025-08-18": 85,
       "2025-08-17": 104,
       "2025-08-16": 88,
       "2025-08-15": 373,
@@ -1194,7 +1191,7 @@
       "2025-07-25": 18,
       "2025-07-24": 30,
       "2025-07-23": 150,
-      "2025-07-22": 91
+      "2025-07-22": 67
     }
   },
   {
@@ -1204,17 +1201,17 @@
     "slug": "overseerr",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "89.19%",
-    "uptimeWeek": "87.07%",
-    "uptimeMonth": "92.17%",
+    "uptimeDay": "89.32%",
+    "uptimeWeek": "86.91%",
+    "uptimeMonth": "92.19%",
     "uptimeYear": "99.35%",
-    "time": 411,
-    "timeDay": 363,
-    "timeWeek": 413,
-    "timeMonth": 398,
+    "time": 412,
+    "timeDay": 489,
+    "timeWeek": 421,
+    "timeMonth": 399,
     "timeYear": 419,
     "dailyMinutesDown": {
-      "2025-08-18": 69,
+      "2025-08-18": 85,
       "2025-08-17": 104,
       "2025-08-16": 88,
       "2025-08-15": 373,
@@ -1241,7 +1238,7 @@
       "2025-07-25": 18,
       "2025-07-24": 30,
       "2025-07-23": 150,
-      "2025-07-22": 91
+      "2025-07-22": 67
     }
   },
   {
@@ -1251,17 +1248,17 @@
     "slug": "prowlarr",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "89.19%",
-    "uptimeWeek": "87.07%",
-    "uptimeMonth": "92.10%",
+    "uptimeDay": "89.33%",
+    "uptimeWeek": "86.91%",
+    "uptimeMonth": "92.12%",
     "uptimeYear": "99.34%",
     "time": 106,
-    "timeDay": 76,
-    "timeWeek": 94,
+    "timeDay": 90,
+    "timeWeek": 95,
     "timeMonth": 89,
     "timeYear": 107,
     "dailyMinutesDown": {
-      "2025-08-18": 69,
+      "2025-08-18": 85,
       "2025-08-17": 104,
       "2025-08-16": 88,
       "2025-08-15": 373,
@@ -1288,7 +1285,7 @@
       "2025-07-25": 18,
       "2025-07-24": 30,
       "2025-07-23": 150,
-      "2025-07-22": 91
+      "2025-07-22": 67
     }
   },
   {
@@ -1298,17 +1295,17 @@
     "slug": "immich",
     "status": "up",
     "uptime": "99.31%",
-    "uptimeDay": "96.36%",
-    "uptimeWeek": "90.70%",
+    "uptimeDay": "95.24%",
+    "uptimeWeek": "90.54%",
     "uptimeMonth": "91.42%",
     "uptimeYear": "99.07%",
     "time": 141,
-    "timeDay": 126,
-    "timeWeek": 138,
-    "timeMonth": 143,
+    "timeDay": 121,
+    "timeWeek": 139,
+    "timeMonth": 142,
     "timeYear": 144,
     "dailyMinutesDown": {
-      "2025-08-18": 52,
+      "2025-08-18": 68,
       "2025-08-17": 17,
       "2025-08-16": 69,
       "2025-08-15": 377,
@@ -1349,8 +1346,7 @@
       "2025-04-13": 297,
       "2025-04-09": 32,
       "2025-03-17": 30,
-      "2025-03-15": 20,
-      "2025-03-13": 27
+      "2025-03-15": 20
     }
   },
   {
@@ -1360,17 +1356,17 @@
     "slug": "sa-bnzbd",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "89.19%",
-    "uptimeWeek": "87.06%",
+    "uptimeDay": "89.33%",
+    "uptimeWeek": "86.90%",
     "uptimeMonth": "92.15%",
     "uptimeYear": "99.35%",
-    "time": 232,
-    "timeDay": 161,
-    "timeWeek": 210,
+    "time": 233,
+    "timeDay": 208,
+    "timeWeek": 213,
     "timeMonth": 200,
     "timeYear": 234,
     "dailyMinutesDown": {
-      "2025-08-18": 69,
+      "2025-08-18": 85,
       "2025-08-17": 104,
       "2025-08-16": 88,
       "2025-08-15": 373,
@@ -1397,7 +1393,7 @@
       "2025-07-25": 18,
       "2025-07-24": 30,
       "2025-07-23": 150,
-      "2025-07-22": 43
+      "2025-07-22": 24
     }
   },
   {
@@ -1407,17 +1403,17 @@
     "slug": "navidrome",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "89.18%",
-    "uptimeWeek": "88.38%",
-    "uptimeMonth": "92.51%",
+    "uptimeDay": "89.33%",
+    "uptimeWeek": "88.22%",
+    "uptimeMonth": "92.52%",
     "uptimeYear": "99.38%",
     "time": 109,
-    "timeDay": 78,
-    "timeWeek": 96,
+    "timeDay": 88,
+    "timeWeek": 97,
     "timeMonth": 89,
     "timeYear": 111,
     "dailyMinutesDown": {
-      "2025-08-18": 69,
+      "2025-08-18": 85,
       "2025-08-17": 104,
       "2025-08-16": 88,
       "2025-08-15": 373,
@@ -1444,7 +1440,7 @@
       "2025-07-25": 18,
       "2025-07-24": 30,
       "2025-07-23": 150,
-      "2025-07-22": 43
+      "2025-07-22": 24
     }
   }
 ]

@@ -4,19 +4,19 @@
     "url": "https://tronflix.app",
     "icon": "https://tronflix.app/plugins/images/tabs/TronFlix_Icon_Transparent_BG.png",
     "slug": "tron-flix",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "89.03%",
-    "uptimeWeek": "85.84%",
-    "uptimeMonth": "94.73%",
+    "uptimeDay": "88.97%",
+    "uptimeWeek": "86.02%",
+    "uptimeMonth": "94.75%",
     "uptimeYear": "99.56%",
     "time": 443,
-    "timeDay": 431,
+    "timeDay": 424,
     "timeWeek": 425,
     "timeMonth": 428,
     "timeYear": 453,
     "dailyMinutesDown": {
-      "2025-08-19": 93,
+      "2025-08-19": 94,
       "2025-08-18": 105,
       "2025-08-17": 126,
       "2025-08-16": 153,
@@ -26,8 +26,7 @@
       "2025-08-12": 267,
       "2025-08-11": 346,
       "2025-08-10": 284,
-      "2025-08-09": 138,
-      "2025-08-08": 7
+      "2025-08-09": 138
     }
   },
   {
@@ -35,19 +34,19 @@
     "url": "https://tronflix.app/plex/web/index.html",
     "icon": "https://tronflix.app/plugins/images/tabs/plex.png",
     "slug": "plex",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "89.03%",
-    "uptimeWeek": "86.05%",
-    "uptimeMonth": "94.74%",
+    "uptimeDay": "88.95%",
+    "uptimeWeek": "86.22%",
+    "uptimeMonth": "94.76%",
     "uptimeYear": "99.56%",
     "time": 146,
-    "timeDay": 125,
+    "timeDay": 121,
     "timeWeek": 128,
     "timeMonth": 118,
     "timeYear": 152,
     "dailyMinutesDown": {
-      "2025-08-19": 93,
+      "2025-08-19": 94,
       "2025-08-18": 105,
       "2025-08-17": 126,
       "2025-08-16": 153,
@@ -58,7 +57,7 @@
       "2025-08-11": 346,
       "2025-08-10": 284,
       "2025-08-09": 138,
-      "2025-08-08": 23
+      "2025-08-08": 16
     }
   },
   {
@@ -68,9 +67,9 @@
     "slug": "bitwarden",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "91.13%",
-    "uptimeWeek": "89.29%",
-    "uptimeMonth": "92.55%",
+    "uptimeDay": "91.91%",
+    "uptimeWeek": "89.40%",
+    "uptimeMonth": "92.56%",
     "uptimeYear": "99.38%",
     "time": 187,
     "timeDay": 188,
@@ -78,7 +77,7 @@
     "timeMonth": 173,
     "timeYear": 192,
     "dailyMinutesDown": {
-      "2025-08-19": 79,
+      "2025-08-19": 68,
       "2025-08-18": 89,
       "2025-08-17": 39,
       "2025-08-16": 112,
@@ -95,7 +94,7 @@
       "2025-08-05": 756,
       "2025-08-04": 198,
       "2025-08-03": 88,
-      "2025-08-02": 31
+      "2025-08-02": 39
     }
   },
   {
@@ -105,9 +104,9 @@
     "slug": "forgejo",
     "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "91.12%",
-    "uptimeWeek": "89.37%",
-    "uptimeMonth": "92.55%",
+    "uptimeDay": "91.90%",
+    "uptimeWeek": "89.48%",
+    "uptimeMonth": "92.54%",
     "uptimeYear": "99.38%",
     "time": 209,
     "timeDay": 216,
@@ -115,7 +114,7 @@
     "timeMonth": 195,
     "timeYear": 209,
     "dailyMinutesDown": {
-      "2025-08-19": 79,
+      "2025-08-19": 68,
       "2025-08-18": 89,
       "2025-08-17": 39,
       "2025-08-16": 112,
@@ -132,7 +131,7 @@
       "2025-08-05": 756,
       "2025-08-04": 198,
       "2025-08-03": 88,
-      "2025-08-02": 39
+      "2025-08-02": 52
     }
   },
   {
@@ -140,19 +139,19 @@
     "url": "https://grafana.tronflix.app",
     "icon": "https://tronflix.app/plugins/images/tabs/grafana.png",
     "slug": "grafana",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "89.01%",
-    "uptimeWeek": "86.91%",
-    "uptimeMonth": "94.25%",
+    "uptimeDay": "88.91%",
+    "uptimeWeek": "87.08%",
+    "uptimeMonth": "94.29%",
     "uptimeYear": "99.52%",
     "time": 418,
-    "timeDay": 481,
+    "timeDay": 472,
     "timeWeek": 436,
     "timeMonth": 396,
     "timeYear": 427,
     "dailyMinutesDown": {
-      "2025-08-19": 93,
+      "2025-08-19": 94,
       "2025-08-18": 105,
       "2025-08-17": 118,
       "2025-08-16": 131,
@@ -166,7 +165,7 @@
       "2025-08-08": 111,
       "2025-08-07": 162,
       "2025-08-06": 54,
-      "2025-08-05": 93
+      "2025-08-05": 74
     }
   },
   {
@@ -174,19 +173,19 @@
     "url": "https://tronflix.app/ombi/",
     "icon": "https://tronflix.app/plugins/images/tabs/ombi.png",
     "slug": "ombi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "89.01%",
-    "uptimeWeek": "87.04%",
-    "uptimeMonth": "94.20%",
+    "uptimeDay": "88.90%",
+    "uptimeWeek": "87.21%",
+    "uptimeMonth": "94.28%",
     "uptimeYear": "99.52%",
     "time": 111,
-    "timeDay": 99,
+    "timeDay": 96,
     "timeWeek": 99,
     "timeMonth": 95,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2025-08-19": 93,
+      "2025-08-19": 94,
       "2025-08-18": 105,
       "2025-08-17": 118,
       "2025-08-16": 131,
@@ -200,7 +199,7 @@
       "2025-08-08": 112,
       "2025-08-07": 162,
       "2025-08-06": 53,
-      "2025-08-05": 128
+      "2025-08-05": 93
     }
   },
   {
@@ -208,19 +207,19 @@
     "url": "https://pihole.tronflix.app/admin/login",
     "icon": "https://tronflix.app/plugins/images/tabs/pihole.png",
     "slug": "pi-hole",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "89.01%",
-    "uptimeWeek": "87.13%",
-    "uptimeMonth": "94.15%",
-    "uptimeYear": "99.51%",
-    "time": 386,
-    "timeDay": 445,
-    "timeWeek": 391,
+    "uptimeDay": "88.90%",
+    "uptimeWeek": "87.30%",
+    "uptimeMonth": "94.22%",
+    "uptimeYear": "99.52%",
+    "time": 381,
+    "timeDay": 435,
+    "timeWeek": 390,
     "timeMonth": 387,
     "timeYear": 392,
     "dailyMinutesDown": {
-      "2025-08-19": 93,
+      "2025-08-19": 95,
       "2025-08-18": 105,
       "2025-08-17": 118,
       "2025-08-16": 131,
@@ -234,7 +233,7 @@
       "2025-08-08": 112,
       "2025-08-07": 162,
       "2025-08-06": 53,
-      "2025-08-05": 161
+      "2025-08-05": 128
     }
   },
   {
@@ -242,19 +241,19 @@
     "url": "https://pihole-backup.tronflix.app/admin/login",
     "icon": "https://tronflix.app/plugins/images/tabs/pihole.png",
     "slug": "pi-hole-backup",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "89.01%",
-    "uptimeWeek": "88.93%",
-    "uptimeMonth": "92.58%",
-    "uptimeYear": "99.38%",
+    "uptimeDay": "88.90%",
+    "uptimeWeek": "89.11%",
+    "uptimeMonth": "92.62%",
+    "uptimeYear": "99.39%",
     "time": 348,
-    "timeDay": 460,
+    "timeDay": 448,
     "timeWeek": 370,
     "timeMonth": 354,
     "timeYear": 355,
     "dailyMinutesDown": {
-      "2025-08-19": 93,
+      "2025-08-19": 95,
       "2025-08-18": 96,
       "2025-08-17": 118,
       "2025-08-16": 89,
@@ -278,8 +277,7 @@
       "2025-07-29": 173,
       "2025-07-28": 104,
       "2025-07-27": 131,
-      "2025-07-26": 4,
-      "2025-07-25": 18
+      "2025-07-26": 4
     }
   },
   {
@@ -287,19 +285,19 @@
     "url": "https://tronflix.app/radarr/activity/queue/",
     "icon": "https://tronflix.app/plugins/images/tabs/radarr.png",
     "slug": "radarr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "89.00%",
-    "uptimeWeek": "89.24%",
-    "uptimeMonth": "92.60%",
-    "uptimeYear": "99.38%",
+    "uptimeDay": "88.89%",
+    "uptimeWeek": "89.42%",
+    "uptimeMonth": "92.66%",
+    "uptimeYear": "99.39%",
     "time": 131,
-    "timeDay": 103,
+    "timeDay": 100,
     "timeWeek": 95,
-    "timeMonth": 90,
+    "timeMonth": 89,
     "timeYear": 136,
     "dailyMinutesDown": {
-      "2025-08-19": 93,
+      "2025-08-19": 95,
       "2025-08-18": 96,
       "2025-08-17": 104,
       "2025-08-16": 89,
@@ -326,7 +324,7 @@
       "2025-07-26": 4,
       "2025-07-25": 18,
       "2025-07-24": 30,
-      "2025-07-23": 45
+      "2025-07-23": 16
     }
   },
   {
@@ -334,19 +332,19 @@
     "url": "https://tronflix.app/radarr-anime/activity/queue/",
     "icon": "https://tronflix.app/plugins/images/tabs/radarr.png",
     "slug": "radarr-anime",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "89.00%",
-    "uptimeWeek": "89.24%",
-    "uptimeMonth": "92.58%",
+    "uptimeDay": "88.88%",
+    "uptimeWeek": "89.42%",
+    "uptimeMonth": "92.61%",
     "uptimeYear": "99.38%",
     "time": 116,
-    "timeDay": 105,
+    "timeDay": 102,
     "timeWeek": 99,
-    "timeMonth": 90,
+    "timeMonth": 89,
     "timeYear": 119,
     "dailyMinutesDown": {
-      "2025-08-19": 93,
+      "2025-08-19": 95,
       "2025-08-18": 96,
       "2025-08-17": 104,
       "2025-08-16": 89,
@@ -373,7 +371,7 @@
       "2025-07-26": 4,
       "2025-07-25": 18,
       "2025-07-24": 30,
-      "2025-07-23": 83
+      "2025-07-23": 66
     }
   },
   {
@@ -381,19 +379,19 @@
     "url": "https://tronflix.app/radarr4k/activity/queue/",
     "icon": "https://tronflix.app/plugins/images/tabs/radarr4k.png",
     "slug": "radarr4-k",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "89.00%",
-    "uptimeWeek": "89.24%",
-    "uptimeMonth": "92.57%",
+    "uptimeDay": "88.87%",
+    "uptimeWeek": "89.42%",
+    "uptimeMonth": "92.61%",
     "uptimeYear": "99.38%",
-    "time": 109,
-    "timeDay": 98,
+    "time": 108,
+    "timeDay": 95,
     "timeWeek": 97,
     "timeMonth": 89,
     "timeYear": 111,
     "dailyMinutesDown": {
-      "2025-08-19": 93,
+      "2025-08-19": 95,
       "2025-08-18": 96,
       "2025-08-17": 104,
       "2025-08-16": 89,
@@ -420,7 +418,7 @@
       "2025-07-26": 4,
       "2025-07-25": 18,
       "2025-07-24": 30,
-      "2025-07-23": 83
+      "2025-07-23": 66
     }
   },
   {
@@ -428,19 +426,19 @@
     "url": "https://tronflix.app/sonarr/activity/queue/",
     "icon": "https://tronflix.app/plugins/images/tabs/sonarr.png",
     "slug": "sonarr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "89.81%",
-    "uptimeWeek": "89.36%",
-    "uptimeMonth": "92.52%",
+    "uptimeDay": "89.68%",
+    "uptimeWeek": "89.53%",
+    "uptimeMonth": "92.56%",
     "uptimeYear": "99.38%",
     "time": 128,
-    "timeDay": 99,
+    "timeDay": 96,
     "timeWeek": 95,
     "timeMonth": 90,
     "timeYear": 132,
     "dailyMinutesDown": {
-      "2025-08-19": 93,
+      "2025-08-19": 95,
       "2025-08-18": 84,
       "2025-08-17": 104,
       "2025-08-16": 88,
@@ -467,7 +465,7 @@
       "2025-07-26": 4,
       "2025-07-25": 18,
       "2025-07-24": 30,
-      "2025-07-23": 117
+      "2025-07-23": 100
     }
   },
   {
@@ -475,19 +473,19 @@
     "url": "https://tronflix.app/sonarr-anime/login",
     "icon": "https://tronflix.app/plugins/images/tabs/sonarr.png",
     "slug": "sonarr-anime",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "89.81%",
-    "uptimeWeek": "89.35%",
-    "uptimeMonth": "92.56%",
+    "uptimeDay": "89.67%",
+    "uptimeWeek": "89.53%",
+    "uptimeMonth": "92.59%",
     "uptimeYear": "99.38%",
     "time": 110,
-    "timeDay": 99,
+    "timeDay": 96,
     "timeWeek": 99,
     "timeMonth": 90,
     "timeYear": 111,
     "dailyMinutesDown": {
-      "2025-08-19": 93,
+      "2025-08-19": 95,
       "2025-08-18": 84,
       "2025-08-17": 104,
       "2025-08-16": 88,
@@ -514,7 +512,7 @@
       "2025-07-26": 4,
       "2025-07-25": 18,
       "2025-07-24": 30,
-      "2025-07-23": 100
+      "2025-07-23": 83
     }
   },
   {
@@ -522,19 +520,19 @@
     "url": "https://tronflix.app/sonarr4k/login",
     "icon": "https://tronflix.app/plugins/images/tabs/sonarr4k.png",
     "slug": "sonarr4-k",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "89.81%",
-    "uptimeWeek": "89.35%",
-    "uptimeMonth": "92.56%",
+    "uptimeDay": "89.67%",
+    "uptimeWeek": "89.53%",
+    "uptimeMonth": "92.59%",
     "uptimeYear": "99.38%",
-    "time": 120,
-    "timeDay": 102,
+    "time": 118,
+    "timeDay": 99,
     "timeWeek": 100,
     "timeMonth": 93,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2025-08-19": 93,
+      "2025-08-19": 95,
       "2025-08-18": 84,
       "2025-08-17": 104,
       "2025-08-16": 88,
@@ -561,7 +559,7 @@
       "2025-07-26": 4,
       "2025-07-25": 18,
       "2025-07-24": 30,
-      "2025-07-23": 99
+      "2025-07-23": 82
     }
   },
   {
@@ -569,19 +567,19 @@
     "url": "https://tronflix.app/lidarr/activity/queue/",
     "icon": "https://tronflix.app/plugins/images/tabs/lidarr.png",
     "slug": "lidarr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "89.81%",
-    "uptimeWeek": "86.84%",
-    "uptimeMonth": "91.98%",
+    "uptimeDay": "89.66%",
+    "uptimeWeek": "87.02%",
+    "uptimeMonth": "92.02%",
     "uptimeYear": "99.33%",
-    "time": 123,
-    "timeDay": 96,
+    "time": 122,
+    "timeDay": 94,
     "timeWeek": 95,
     "timeMonth": 89,
     "timeYear": 126,
     "dailyMinutesDown": {
-      "2025-08-19": 93,
+      "2025-08-19": 95,
       "2025-08-18": 84,
       "2025-08-17": 104,
       "2025-08-16": 88,
@@ -608,7 +606,7 @@
       "2025-07-26": 4,
       "2025-07-25": 18,
       "2025-07-24": 30,
-      "2025-07-23": 99
+      "2025-07-23": 82
     }
   },
   {
@@ -616,19 +614,19 @@
     "url": "https://tronflix.app/tautulli/status/",
     "icon": "https://tronflix.app/plugins/images/tabs/tautulli.png",
     "slug": "tautulli",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "89.80%",
-    "uptimeWeek": "89.35%",
-    "uptimeMonth": "92.56%",
+    "uptimeDay": "89.65%",
+    "uptimeWeek": "89.53%",
+    "uptimeMonth": "92.59%",
     "uptimeYear": "99.38%",
     "time": 112,
-    "timeDay": 103,
+    "timeDay": 100,
     "timeWeek": 95,
     "timeMonth": 90,
     "timeYear": 114,
     "dailyMinutesDown": {
-      "2025-08-19": 93,
+      "2025-08-19": 95,
       "2025-08-18": 84,
       "2025-08-17": 104,
       "2025-08-16": 88,
@@ -655,7 +653,7 @@
       "2025-07-26": 4,
       "2025-07-25": 18,
       "2025-07-24": 30,
-      "2025-07-23": 99
+      "2025-07-23": 82
     }
   },
   {
@@ -663,11 +661,11 @@
     "url": "https://nagios.tronflix.app",
     "icon": "https://tronflix.app/plugins/images/tabs/nagios.png",
     "slug": "nagios",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "89.80%",
-    "uptimeWeek": "89.35%",
-    "uptimeMonth": "92.56%",
+    "uptimeDay": "89.64%",
+    "uptimeWeek": "89.52%",
+    "uptimeMonth": "92.59%",
     "uptimeYear": "99.38%",
     "time": 287,
     "timeDay": 306,
@@ -675,7 +673,7 @@
     "timeMonth": 287,
     "timeYear": 288,
     "dailyMinutesDown": {
-      "2025-08-19": 93,
+      "2025-08-19": 95,
       "2025-08-18": 84,
       "2025-08-17": 104,
       "2025-08-16": 88,
@@ -702,7 +700,7 @@
       "2025-07-26": 4,
       "2025-07-25": 18,
       "2025-07-24": 30,
-      "2025-07-23": 99
+      "2025-07-23": 82
     }
   },
   {
@@ -710,19 +708,19 @@
     "url": "https://tronflix.app/qbit/",
     "icon": "https://tronflix.app/plugins/images/tabs/qBittorrent.png",
     "slug": "q-bit",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "89.80%",
-    "uptimeWeek": "89.35%",
-    "uptimeMonth": "92.56%",
+    "uptimeDay": "89.64%",
+    "uptimeWeek": "89.52%",
+    "uptimeMonth": "92.59%",
     "uptimeYear": "99.38%",
-    "time": 141,
-    "timeDay": 101,
+    "time": 138,
+    "timeDay": 98,
     "timeWeek": 97,
     "timeMonth": 117,
     "timeYear": 145,
     "dailyMinutesDown": {
-      "2025-08-19": 93,
+      "2025-08-19": 95,
       "2025-08-18": 85,
       "2025-08-17": 104,
       "2025-08-16": 88,
@@ -749,7 +747,7 @@
       "2025-07-26": 4,
       "2025-07-25": 18,
       "2025-07-24": 30,
-      "2025-07-23": 99
+      "2025-07-23": 82
     }
   },
   {
@@ -758,18 +756,18 @@
     "icon": "https://tronflix.app/plugins/images/tabs/nextcloud.png",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "99.82%",
-    "uptimeDay": "91.87%",
-    "uptimeWeek": "91.89%",
-    "uptimeMonth": "91.57%",
-    "uptimeYear": "99.16%",
+    "uptime": "99.81%",
+    "uptimeDay": "92.70%",
+    "uptimeWeek": "92.00%",
+    "uptimeMonth": "91.60%",
+    "uptimeYear": "99.10%",
     "time": 1159,
     "timeDay": 1373,
     "timeWeek": 1375,
     "timeMonth": 1391,
     "timeYear": 1332,
     "dailyMinutesDown": {
-      "2025-08-19": 80,
+      "2025-08-19": 68,
       "2025-08-18": 68,
       "2025-08-17": 17,
       "2025-08-16": 69,
@@ -807,7 +805,8 @@
       "2025-07-15": 65,
       "2025-05-18": 83,
       "2025-05-09": 34,
-      "2025-05-04": 15
+      "2025-05-04": 15,
+      "2025-04-13": 297
     }
   },
   {
@@ -820,14 +819,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "45.36%",
+    "uptimeYear": "45.35%",
     "time": 263,
     "timeDay": 378,
     "timeWeek": 366,
     "timeMonth": 360,
     "timeYear": 273,
     "dailyMinutesDown": {
-      "2025-08-19": 539,
+      "2025-08-19": 586,
       "2025-08-18": 1440,
       "2025-08-17": 1440,
       "2025-08-16": 1440,
@@ -1043,18 +1042,18 @@
     "icon": "https://tronflix.app/plugins/images/tabs/zipline.png",
     "slug": "zipline",
     "status": "up",
-    "uptime": "99.10%",
-    "uptimeDay": "91.87%",
-    "uptimeWeek": "90.57%",
-    "uptimeMonth": "91.12%",
-    "uptimeYear": "99.10%",
+    "uptime": "99.05%",
+    "uptimeDay": "92.70%",
+    "uptimeWeek": "90.69%",
+    "uptimeMonth": "91.14%",
+    "uptimeYear": "99.05%",
     "time": 198,
     "timeDay": 222,
     "timeWeek": 202,
     "timeMonth": 195,
     "timeYear": 198,
     "dailyMinutesDown": {
-      "2025-08-19": 80,
+      "2025-08-19": 68,
       "2025-08-18": 68,
       "2025-08-17": 17,
       "2025-08-16": 69,
@@ -1092,7 +1091,8 @@
       "2025-07-15": 65,
       "2025-05-18": 83,
       "2025-05-09": 34,
-      "2025-05-04": 15
+      "2025-05-04": 15,
+      "2025-04-13": 297
     }
   },
   {
@@ -1100,19 +1100,19 @@
     "url": "https://files.tronflix.app",
     "icon": "https://tronflix.app/plugins/images/tabs/filebrowser.png",
     "slug": "file-browser",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "89.78%",
-    "uptimeWeek": "88.02%",
-    "uptimeMonth": "92.25%",
-    "uptimeYear": "99.35%",
+    "uptimeDay": "89.60%",
+    "uptimeWeek": "88.20%",
+    "uptimeMonth": "92.28%",
+    "uptimeYear": "99.36%",
     "time": 345,
-    "timeDay": 383,
+    "timeDay": 375,
     "timeWeek": 371,
     "timeMonth": 338,
     "timeYear": 352,
     "dailyMinutesDown": {
-      "2025-08-19": 94,
+      "2025-08-19": 97,
       "2025-08-18": 85,
       "2025-08-17": 104,
       "2025-08-16": 88,
@@ -1139,7 +1139,7 @@
       "2025-07-26": 4,
       "2025-07-25": 18,
       "2025-07-24": 30,
-      "2025-07-23": 99
+      "2025-07-23": 82
     }
   },
   {
@@ -1147,19 +1147,19 @@
     "url": "https://tronflix.app/bazarr/system/status",
     "icon": "https://tronflix.app/plugins/images/tabs/bazarr.png",
     "slug": "bazarr",
-    "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "89.77%",
-    "uptimeWeek": "89.33%",
-    "uptimeMonth": "92.55%",
+    "status": "down",
+    "uptime": "99.87%",
+    "uptimeDay": "89.59%",
+    "uptimeWeek": "89.51%",
+    "uptimeMonth": "92.58%",
     "uptimeYear": "99.38%",
-    "time": 256,
-    "timeDay": 274,
+    "time": 255,
+    "timeDay": 269,
     "timeWeek": 245,
     "timeMonth": 228,
     "timeYear": 258,
     "dailyMinutesDown": {
-      "2025-08-19": 94,
+      "2025-08-19": 97,
       "2025-08-18": 85,
       "2025-08-17": 104,
       "2025-08-16": 88,
@@ -1186,7 +1186,7 @@
       "2025-07-26": 4,
       "2025-07-25": 18,
       "2025-07-24": 30,
-      "2025-07-23": 99
+      "2025-07-23": 82
     }
   },
   {
@@ -1194,19 +1194,19 @@
     "url": "https://overseerr.tronflix.app/login",
     "icon": "https://tronflix.app/plugins/images/tabs/overseerr.png",
     "slug": "overseerr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "89.78%",
-    "uptimeWeek": "88.02%",
-    "uptimeMonth": "92.25%",
-    "uptimeYear": "99.35%",
+    "uptimeDay": "89.59%",
+    "uptimeWeek": "88.19%",
+    "uptimeMonth": "92.28%",
+    "uptimeYear": "99.36%",
     "time": 413,
-    "timeDay": 495,
+    "timeDay": 485,
     "timeWeek": 419,
     "timeMonth": 402,
     "timeYear": 420,
     "dailyMinutesDown": {
-      "2025-08-19": 94,
+      "2025-08-19": 97,
       "2025-08-18": 85,
       "2025-08-17": 104,
       "2025-08-16": 88,
@@ -1233,7 +1233,7 @@
       "2025-07-26": 4,
       "2025-07-25": 18,
       "2025-07-24": 30,
-      "2025-07-23": 99
+      "2025-07-23": 82
     }
   },
   {
@@ -1241,19 +1241,19 @@
     "url": "https://tronflix.app/prowlarr/",
     "icon": "https://tronflix.app/plugins/images/tabs/prowlarr.png",
     "slug": "prowlarr",
-    "status": "up",
-    "uptime": "99.85%",
-    "uptimeDay": "89.77%",
-    "uptimeWeek": "88.02%",
-    "uptimeMonth": "92.18%",
+    "status": "down",
+    "uptime": "99.86%",
+    "uptimeDay": "89.58%",
+    "uptimeWeek": "88.19%",
+    "uptimeMonth": "92.21%",
     "uptimeYear": "99.35%",
     "time": 105,
-    "timeDay": 102,
+    "timeDay": 99,
     "timeWeek": 95,
     "timeMonth": 89,
     "timeYear": 107,
     "dailyMinutesDown": {
-      "2025-08-19": 94,
+      "2025-08-19": 97,
       "2025-08-18": 85,
       "2025-08-17": 104,
       "2025-08-16": 88,
@@ -1280,7 +1280,7 @@
       "2025-07-26": 4,
       "2025-07-25": 18,
       "2025-07-24": 30,
-      "2025-07-23": 99
+      "2025-07-23": 82
     }
   },
   {
@@ -1289,18 +1289,18 @@
     "icon": "https://tronflix.app/plugins/images/tabs/immich.png",
     "slug": "immich",
     "status": "up",
-    "uptime": "99.36%",
-    "uptimeDay": "91.85%",
-    "uptimeWeek": "90.56%",
-    "uptimeMonth": "91.27%",
-    "uptimeYear": "99.13%",
+    "uptime": "99.32%",
+    "uptimeDay": "92.70%",
+    "uptimeWeek": "90.68%",
+    "uptimeMonth": "91.30%",
+    "uptimeYear": "99.08%",
     "time": 142,
     "timeDay": 141,
     "timeWeek": 143,
     "timeMonth": 143,
     "timeYear": 144,
     "dailyMinutesDown": {
-      "2025-08-19": 80,
+      "2025-08-19": 68,
       "2025-08-18": 68,
       "2025-08-17": 17,
       "2025-08-16": 69,
@@ -1338,7 +1338,8 @@
       "2025-07-15": 65,
       "2025-05-18": 83,
       "2025-05-09": 34,
-      "2025-05-04": 15
+      "2025-05-04": 15,
+      "2025-04-13": 297
     }
   },
   {
@@ -1346,19 +1347,19 @@
     "url": "https://tronflix.app/sabnzbd/",
     "icon": "https://tronflix.app/plugins/images/tabs/sabnzbd.png",
     "slug": "sa-bnzbd",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "89.76%",
-    "uptimeWeek": "88.01%",
-    "uptimeMonth": "92.19%",
+    "uptimeDay": "89.56%",
+    "uptimeWeek": "88.19%",
+    "uptimeMonth": "92.23%",
     "uptimeYear": "99.35%",
     "time": 235,
-    "timeDay": 224,
+    "timeDay": 216,
     "timeWeek": 214,
-    "timeMonth": 202,
+    "timeMonth": 201,
     "timeYear": 234,
     "dailyMinutesDown": {
-      "2025-08-19": 94,
+      "2025-08-19": 97,
       "2025-08-18": 85,
       "2025-08-17": 104,
       "2025-08-16": 88,
@@ -1385,7 +1386,7 @@
       "2025-07-26": 4,
       "2025-07-25": 18,
       "2025-07-24": 30,
-      "2025-07-23": 65
+      "2025-07-23": 45
     }
   },
   {
@@ -1393,19 +1394,19 @@
     "url": "https://tronflix.app/navidrome/app/",
     "icon": "https://tronflix.app/plugins/images/tabs/navidrome.png",
     "slug": "navidrome",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "89.76%",
-    "uptimeWeek": "89.33%",
-    "uptimeMonth": "92.55%",
+    "uptimeDay": "89.55%",
+    "uptimeWeek": "89.50%",
+    "uptimeMonth": "92.59%",
     "uptimeYear": "99.38%",
-    "time": 110,
-    "timeDay": 103,
+    "time": 109,
+    "timeDay": 100,
     "timeWeek": 96,
     "timeMonth": 90,
     "timeYear": 111,
     "dailyMinutesDown": {
-      "2025-08-19": 94,
+      "2025-08-19": 97,
       "2025-08-18": 85,
       "2025-08-17": 104,
       "2025-08-16": 88,
@@ -1432,7 +1433,7 @@
       "2025-07-26": 4,
       "2025-07-25": 18,
       "2025-07-24": 30,
-      "2025-07-23": 65
+      "2025-07-23": 45
     }
   }
 ]

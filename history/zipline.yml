@@ -1,7 +1,7 @@
 url: https://zipline.tronflix.app/auth/login
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-08-29T07:09:35.139Z
+status: up
+code: 200
+responseTime: 167
+lastUpdated: 2025-08-29T07:24:00.237Z
 startTime: 2024-08-25T17:14:49.894Z
 generator: Upptime <https://github.com/upptime/upptime>

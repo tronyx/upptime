@@ -1,7 +1,7 @@
 url: https://grafana.tronflix.app
-status: down
-code: 520
-responseTime: 389
-lastUpdated: 2025-09-01T11:40:11.008Z
+status: up
+code: 200
+responseTime: 275
+lastUpdated: 2025-09-01T11:48:03.414Z
 startTime: 2020-12-08T19:33:49.000Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -1,7 +1,7 @@
 url: https://overseerr.tronflix.app/login
-status: up
-code: 200
-responseTime: 560
-lastUpdated: 2025-09-06T12:40:35.770Z
+status: down
+code: 520
+responseTime: 172
+lastUpdated: 2025-09-06T13:36:55.019Z
 startTime: 2021-01-19T18:59:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -1,7 +1,7 @@
 url: https://pihole.tronflix.app/admin/login
-status: up
-code: 200
-responseTime: 381
-lastUpdated: 2025-09-13T10:52:22.270Z
+status: down
+code: 520
+responseTime: 186
+lastUpdated: 2025-09-13T13:04:42.743Z
 startTime: 2020-12-08T19:33:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>

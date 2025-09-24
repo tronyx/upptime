@@ -1,7 +1,7 @@
 url: https://tronflix.app/ombi/
-status: up
-code: 200
-responseTime: 120
-lastUpdated: 2025-09-24T20:09:09.674Z
+status: down
+code: 520
+responseTime: 80
+lastUpdated: 2025-09-24T20:22:00.929Z
 startTime: 2020-12-08T19:33:53.000Z
 generator: Upptime <https://github.com/upptime/upptime>

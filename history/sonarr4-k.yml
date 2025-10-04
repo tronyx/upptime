@@ -1,7 +1,7 @@
 url: https://tronflix.app/sonarr4k/login
-status: down
-code: 520
-responseTime: 89
-lastUpdated: 2025-10-04T23:12:39.352Z
+status: up
+code: 200
+responseTime: 149
+lastUpdated: 2025-10-04T23:29:42.812Z
 startTime: 2023-12-17T05:48:30.033Z
 generator: Upptime <https://github.com/upptime/upptime>

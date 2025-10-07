@@ -7,8 +7,8 @@
     "status": "up",
     "uptime": "99.90%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "90.15%",
-    "uptimeMonth": "94.03%",
+    "uptimeWeek": "90.27%",
+    "uptimeMonth": "94.02%",
     "uptimeYear": "99.50%",
     "time": 452,
     "timeDay": 384,
@@ -16,7 +16,7 @@
     "timeMonth": 427,
     "timeYear": 458,
     "dailyMinutesDown": {
-      "2025-10-05": 39,
+      "2025-10-05": 27,
       "2025-10-04": 169,
       "2025-10-03": 249,
       "2025-10-02": 136,
@@ -26,7 +26,7 @@
       "2025-09-28": 207,
       "2025-09-27": 783,
       "2025-09-26": 193,
-      "2025-09-25": 220
+      "2025-09-25": 235
     }
   },
   {
@@ -37,7 +37,7 @@
     "status": "up",
     "uptime": "99.90%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "90.22%",
+    "uptimeWeek": "90.34%",
     "uptimeMonth": "94.00%",
     "uptimeYear": "99.50%",
     "time": 148,
@@ -46,7 +46,7 @@
     "timeMonth": 147,
     "timeYear": 151,
     "dailyMinutesDown": {
-      "2025-10-05": 39,
+      "2025-10-05": 27,
       "2025-10-04": 169,
       "2025-10-03": 242,
       "2025-10-02": 136,
@@ -57,7 +57,7 @@
       "2025-09-27": 783,
       "2025-09-26": 193,
       "2025-09-25": 225,
-      "2025-09-24": 15
+      "2025-09-24": 27
     }
   },
   {
@@ -67,9 +67,9 @@
     "slug": "bitwarden",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "0.05%",
-    "uptimeWeek": "79.32%",
-    "uptimeMonth": "91.97%",
+    "uptimeDay": "5.22%",
+    "uptimeWeek": "79.44%",
+    "uptimeMonth": "91.98%",
     "uptimeYear": "99.33%",
     "time": 190,
     "timeDay": 117,
@@ -78,7 +78,7 @@
     "timeYear": 188,
     "dailyMinutesDown": {
       "2025-10-06": 1383,
-      "2025-10-05": 96,
+      "2025-10-05": 84,
       "2025-10-04": 124,
       "2025-10-03": 77,
       "2025-10-02": 61,
@@ -93,7 +93,8 @@
       "2025-09-23": 238,
       "2025-09-22": 86,
       "2025-09-21": 249,
-      "2025-09-20": 60
+      "2025-09-20": 60,
+      "2025-09-19": 8
     }
   },
   {
@@ -103,9 +104,9 @@
     "slug": "forgejo",
     "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "0.06%",
-    "uptimeWeek": "79.31%",
-    "uptimeMonth": "91.96%",
+    "uptimeDay": "5.23%",
+    "uptimeWeek": "79.43%",
+    "uptimeMonth": "91.97%",
     "uptimeYear": "99.33%",
     "time": 208,
     "timeDay": 100,
@@ -114,7 +115,7 @@
     "timeYear": 209,
     "dailyMinutesDown": {
       "2025-10-06": 1383,
-      "2025-10-05": 96,
+      "2025-10-05": 84,
       "2025-10-04": 124,
       "2025-10-03": 77,
       "2025-10-02": 61,
@@ -129,7 +130,8 @@
       "2025-09-23": 238,
       "2025-09-22": 86,
       "2025-09-21": 249,
-      "2025-09-20": 60
+      "2025-09-20": 60,
+      "2025-09-19": 8
     }
   },
   {
@@ -735,9 +737,9 @@
     "slug": "nextcloud",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "0.23%",
+    "uptimeDay": "5.48%",
     "uptimeWeek": "81.75%",
-    "uptimeMonth": "90.37%",
+    "uptimeMonth": "90.54%",
     "uptimeYear": "98.98%",
     "time": 1326,
     "timeDay": 1312,
@@ -799,18 +801,19 @@
     "icon": "https://tronflix.app/plugins/images/tabs/chevereto.png",
     "slug": "chevereto",
     "status": "down",
-    "uptime": "85.63%",
+    "uptime": "85.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "32.22%",
+    "uptimeYear": "32.20%",
     "time": 275,
     "timeDay": 317,
     "timeWeek": 356,
     "timeMonth": 348,
     "timeYear": 291,
     "dailyMinutesDown": {
-      "2025-10-06": 1387,
+      "2025-10-07": 23,
+      "2025-10-06": 1440,
       "2025-10-05": 1440,
       "2025-10-04": 1440,
       "2025-10-03": 1440,
@@ -1070,10 +1073,10 @@
     "icon": "https://tronflix.app/plugins/images/tabs/zipline.png",
     "slug": "zipline",
     "status": "up",
-    "uptime": "99.08%",
-    "uptimeDay": "0.24%",
+    "uptime": "99.09%",
+    "uptimeDay": "5.49%",
     "uptimeWeek": "81.75%",
-    "uptimeMonth": "90.37%",
+    "uptimeMonth": "90.54%",
     "uptimeYear": "98.98%",
     "time": 186,
     "timeDay": 137,
@@ -1324,9 +1327,9 @@
     "slug": "immich",
     "status": "up",
     "uptime": "99.31%",
-    "uptimeDay": "0.29%",
+    "uptimeDay": "5.57%",
     "uptimeWeek": "81.75%",
-    "uptimeMonth": "90.37%",
+    "uptimeMonth": "90.54%",
     "uptimeYear": "98.98%",
     "time": 145,
     "timeDay": 89,

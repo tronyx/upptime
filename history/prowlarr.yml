@@ -1,7 +1,7 @@
 url: https://tronflix.app/prowlarr/
-status: up
-code: 200
-responseTime: 112
-lastUpdated: 2025-10-11T03:56:16.215Z
+status: down
+code: 520
+responseTime: 76
+lastUpdated: 2025-10-11T04:09:55.245Z
 startTime: 2021-02-23T12:39:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>

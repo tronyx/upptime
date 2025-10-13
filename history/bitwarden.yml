@@ -1,7 +1,7 @@
 url: https://bitwarden.tronflix.app
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-10-13T19:43:09.092Z
+status: up
+code: 200
+responseTime: 168
+lastUpdated: 2025-10-13T19:49:47.645Z
 startTime: 2020-12-08T19:33:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>

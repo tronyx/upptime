@@ -1,7 +1,7 @@
 url: https://tronflix.app/sonarr-anime/login
-status: down
-code: 520
+status: up
+code: 200
 responseTime: 98
-lastUpdated: 2025-10-23T22:39:50.716Z
+lastUpdated: 2025-10-23T22:47:36.076Z
 startTime: 2022-08-28T22:48:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>

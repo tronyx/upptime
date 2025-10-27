@@ -1,7 +1,7 @@
 url: https://tronflix.app/sonarr/activity/queue/
-status: down
-code: 520
-responseTime: 94
-lastUpdated: 2025-10-27T09:47:40.565Z
+status: up
+code: 200
+responseTime: 100
+lastUpdated: 2025-10-27T09:54:55.202Z
 startTime: 2020-12-08T19:33:57.000Z
 generator: Upptime <https://github.com/upptime/upptime>

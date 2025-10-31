@@ -1,7 +1,7 @@
 url: https://tronflix.app/tautulli/status/
-status: down
-code: 520
-responseTime: 35
-lastUpdated: 2025-10-31T11:34:24.169Z
+status: up
+code: 200
+responseTime: 120
+lastUpdated: 2025-10-31T11:49:10.382Z
 startTime: 2020-12-08T19:33:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>

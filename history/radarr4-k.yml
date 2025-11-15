@@ -1,7 +1,7 @@
 url: https://tronflix.app/radarr4k/activity/queue/
-status: down
-code: 520
-responseTime: 135
-lastUpdated: 2025-11-15T05:14:55.120Z
+status: up
+code: 200
+responseTime: 153
+lastUpdated: 2025-11-15T05:28:37.666Z
 startTime: 2020-12-08T19:33:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -1,7 +1,7 @@
 url: https://tronflix.app
-status: up
-code: 200
-responseTime: 334
-lastUpdated: 2025-11-18T11:50:24.304Z
+status: down
+code: 500
+responseTime: 110
+lastUpdated: 2025-11-18T12:07:36.373Z
 startTime: 2020-12-08T18:54:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
